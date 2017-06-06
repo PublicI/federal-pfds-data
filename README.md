@@ -1,4 +1,4 @@
-Data from public financial disclosure forms filed by government officials in the Trump administration, including top officials, White House employees and members of beachhead teams. Forms provided by ProPublica and data extracted by the Center for Public Integrity. Forms obtained from the Office of Government Ethics (OGE), the White House or the employing agency.
+Data from public financial disclosure forms filed by government officials in the Trump administration, including top officials, White House employees and members of beachhead teams. Forms provided by ProPublica and data extracted by the Center for Public Integrity using [pfd-parser](https://github.com/PublicI/pfd-parser). Forms obtained from the Office of Government Ethics (OGE), the White House or the employing agency.
 
 ### Format
 ---
