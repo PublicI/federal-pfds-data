@@ -80,7 +80,7 @@ file,#,description,eif,value,income-type,income-amount
 "Department of Education/Ham, Holly",45,401K:  Morgan Stanley Inst Emerging Mkts IS (MMMPX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Department of Education/Ham, Holly",46,401K:  Morgan Stanley Inst Global Real Est IS (MGREX),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "Department of Education/Ham, Holly",47,Morgan Stanley Stock Fund (MS),No,"$1,001 - $15,000",,None (or less than $201)
-"Department of Education/Hudson, Alexandra",1,"The Liberty Fund - Sept 15-17, 2016",N/A,,Honorarium,$900
+"Department of Education/Hudson, Alexandra",1,"The Liberty Fund - Sept 15-17, 2016",N/A,,Honorarium,$900 
 "Department of Education/Hudson, Alexandra",2,"Gibson Dunn and Crutcher, LLP",N/A,,Salary,
 "Department of Education/Hudson, Alexandra",3,401K:  T. Rowe Price Blue Chip Growth Fund (TRBCX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Department of Education/Hudson, Alexandra",4,401K:  American Funds EuroPacific Growth Fund Class R6 (RERGX),Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -162,22 +162,22 @@ file,#,description,eif,value,income-type,income-amount
 "Department of the Treasury/Bohigian, David",20,IRA C 159,No,,,
 "Department of the Treasury/Bohigian, David",20.1,Cash (held in US Account),N/A,"$1,001 - $15,000",,None (or less than $201)
 "Department of the Treasury/Chung, Jason",1,"Johnson and Johnson Employee Stock Purchase Program, Johnson and Johnson Employee Stock Purchase Program",No,"$1,001 - $15,000",Dividends,None (or less than $201)
-"Department of the Treasury/Claver-Carone, Mauricio",1,"University of Pennsylvania, Perelman Center for Advanced Medicine (Surgery Fellowship)",No,"$15,001 - $50,000",Salary,"$30,000"
-"Department of the Treasury/Claver-Carone, Mauricio",2,Jupiter Medical Center (Physician - Surgeon),No,"$100,001 - $250,000",Salary,"$130,000"
+"Department of the Treasury/Claver-Carone, Mauricio",1,"University of Pennsylvania, Perelman Center for Advanced Medicine (Surgery Fellowship)",No,"$15,001 - $50,000",Salary,"$30,000 "
+"Department of the Treasury/Claver-Carone, Mauricio",2,Jupiter Medical Center (Physician - Surgeon),No,"$100,001 - $250,000",Salary,"$130,000 "
 "Department of the Treasury/Maloney, Andrew",1,Johns Hopkins University,N/A,,salary,
-"Department of the Treasury/Maloney, Andrew",2,"University of Rochester - November 18, 2016",N/A,,Honorarium,$250
-"Department of the Treasury/Maloney, Andrew",3,"Stanford Univesity - November 29, 2016",N/A,,Honorarium,$250
-"Department of the Treasury/Maloney, Andrew",4,"University of Vermont - October 7, 2016",N/A,,Honorarium,$250
+"Department of the Treasury/Maloney, Andrew",2,"University of Rochester - November 18, 2016",N/A,,Honorarium,$250 
+"Department of the Treasury/Maloney, Andrew",3,"Stanford Univesity - November 29, 2016",N/A,,Honorarium,$250 
+"Department of the Treasury/Maloney, Andrew",4,"University of Vermont - October 7, 2016",N/A,,Honorarium,$250 
 "Department of the Treasury/Maloney, Andrew",5,National Institute of Health,N/A,,consulting fees,
 "Department of the Treasury/Maloney, Andrew",6,American Funds Intl Growth,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Department of the Treasury/Maloney, Andrew",7,Capital World Growth and Income,Yes,"$1,001 - $15,000",,"$1,001 - $2,500"
 "Department of the Treasury/Maloney, Andrew",8,Growth Fund of America,Yes,"$15,001 - $50,000",,"$5,001 - $15,000"
 "Department of the Treasury/Maloney, Andrew",9,Fidelity Growth Discovery,Yes,"$250,001 - $500,000",,"$15,001 - $50,000"
 "Department of the Treasury/Maloney, Andrew",10,Fidelity Capital Appreciation,Yes,"$250,001 - $500,000",,"$15,001 - $50,000"
-"Department of the Treasury/Maloney, Andrew",11,"Rocky Mountain Laboratories, National Institute of Allergy and Infectious Diseases, Hamilton, MT - June 9, 2016",,,Honorarium,$250
-"Department of the Treasury/Maloney, Andrew",12,"Max Planck Institute for Infection Biology, Berlin, Germany - March 22, 2016",,,Honorarium,$250
-"Department of the Treasury/Maloney, Andrew",13,"Heinrich Pette Institute, Leibniz Institute for Experimental Virology, Hamburg, Germany - March 21, 2016",,,Honorarium,$250
-"Department of the Treasury/Maloney, Andrew",14,"Visiting Pulmonary Scholars Lecturer, UNC, NIEHS, DUKE, EPA, and NC State, Research Triangle, North Carolina - March 7, 2017",,,Honorarium,$250
+"Department of the Treasury/Maloney, Andrew",11,"Rocky Mountain Laboratories, National Institute of Allergy and Infectious Diseases, Hamilton, MT - June 9, 2016",,,Honorarium,$250 
+"Department of the Treasury/Maloney, Andrew",12,"Max Planck Institute for Infection Biology, Berlin, Germany - March 22, 2016",,,Honorarium,$250 
+"Department of the Treasury/Maloney, Andrew",13,"Heinrich Pette Institute, Leibniz Institute for Experimental Virology, Hamburg, Germany - March 21, 2016",,,Honorarium,$250 
+"Department of the Treasury/Maloney, Andrew",14,"Visiting Pulmonary Scholars Lecturer, UNC, NIEHS, DUKE, EPA, and NC State, Research Triangle, North Carolina - March 7, 2017",,,Honorarium,$250 
 "Department of the Treasury/Maloney, Andrew",15,"""Seasonal Patterns of Stress, Immune Function and Disease"", Cambridge University Press, (value not readily ascertainable)",N/A,,,None (or less than $201)
 "Department of the Treasury/Maloney, Andrew",16,"""Sex and Gender Differences in Infection and Treatments for Infectious Diseases,"" Springer International Publishing, (value not readily ascertainable)",N/A,,,None (or less than $201)
 "Department of the Treasury/Maloney, Andrew",17,"""Sex Hormones and Immunity to Infection,"" Springer-Verlag Berlin Heidelberg, (value not readily ascertainable)",N/A,,,None (or less than $201)
@@ -189,9 +189,9 @@ file,#,description,eif,value,income-type,income-amount
 "Department of the Treasury/Phillips, Craig",2.1,Goldman Sachs Bank Deposit,N/A,"$1,001 - $15,000",,None (or less than $201)
 "Department of the Treasury/Phillips, Craig",2.2,Kinder Morgan In CMN Class P,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
 "Department of the Treasury/Phillips, Craig",2.3,Schlumberger LTD CMN,N/A,"$250,001 - $500,000",Dividends,"$5,001 - $15,000"
-"Department of the Treasury/Phillips, Craig",2.4,Enterprise Products Part LP CMN,N/A,"$100,001 - $250,000",Partnership Income,"$8,252"
-"Department of the Treasury/Phillips, Craig",2.5,Enbridge Energy Partners LP CMN,N/A,"None (or less than $1,001)",Partnership Income,"$3,553"
-"Department of the Treasury/Phillips, Craig",2.6,Plains All American Pipeline LP Common Units,N/A,"None (or less than $1,001)",Partnership Income,"$2,857"
+"Department of the Treasury/Phillips, Craig",2.4,Enterprise Products Part LP CMN,N/A,"$100,001 - $250,000",Partnership Income,"$8,252 "
+"Department of the Treasury/Phillips, Craig",2.5,Enbridge Energy Partners LP CMN,N/A,"None (or less than $1,001)",Partnership Income,"$3,553 "
+"Department of the Treasury/Phillips, Craig",2.6,Plains All American Pipeline LP Common Units,N/A,"None (or less than $1,001)",Partnership Income,"$2,857 "
 "Department of the Treasury/Unger, Seth",1,Vanguard Roth IRA - Total Stock Market Index Fund,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "Department of the Treasury/Wrennall-Montes, Sarah",1,Trader Joe's Company,,,,
 "Environmental Protection Agency/Davis, Patrick",1,Colorado Springs School Dist. 11,,,salary,
@@ -211,7 +211,7 @@ file,#,description,eif,value,income-type,income-amount
 "Environmental Protection Agency/Greaves, Holly",3.3,Vanguard Growth Index Fund Admiral Shares (VIGAX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Environmental Protection Agency/Greaves, Holly",3.4,Vanguard REIT Index Fund Admiral Shares (VGSLX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Environmental Protection Agency/Greaves, Holly",4,Greaves and Wu Capital Account,N/A,"$15,001 - $50,000",,None (or less than $201)
-"Environmental Protection Agency/Kreutzer, David",1,Marymount University,N/A,,salary,"$169,694"
+"Environmental Protection Agency/Kreutzer, David",1,Marymount University,N/A,,salary,"$169,694 "
 "Environmental Protection Agency/Kreutzer, David",2,TIAA Traditional annuity,No,"$15,001 - $50,000",,"$201 - $1,000"
 "Environmental Protection Agency/Kreutzer, David",3,TIAA Real Estate,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Environmental Protection Agency/Kreutzer, David",4,CREF Stock R2,Yes,"$15,001 - $50,000",,"$201 - $1,000"
@@ -244,7 +244,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Carson, Benjamin",1.2.1,Harbor International Fund,Yes,"$50,001 - $100,000",,"$1,001 - $2,500"
 "Senate-confirmed/Carson, Benjamin",1.2.2,Invesco Convertible Securities Fund,Yes,"$15,001 - $50,000",,"$1,001 - $2,500"
 "Senate-confirmed/Carson, Benjamin",1.2.3,Schwab Advisor Cash Reserves Fund - Premier Sweep Share,Yes,"$1,001 - $15,000",,None (or less than $201)
-"Senate-confirmed/Chao, Elaine L",1,The Long Game: A Memoir - Penguin Random House LLC - Value not readily ascertainable,N/A,,Book Advances,"$145,000"
+"Senate-confirmed/Chao, Elaine L",1,The Long Game: A Memoir - Penguin Random House LLC - Value not readily ascertainable,N/A,,Book Advances,"$145,000 "
 "Senate-confirmed/Chao, Elaine L",2,Bank of America - IRA Cash Account,N/A,"$15,001 - $50,000",Interest,None (or less than $201)
 "Senate-confirmed/Chao, Elaine L",3,SCPB - SPDR Barclays Short Term Corp Bd ETF,Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Chao, Elaine L",4,VCSH - Vanguard Short-Term Corporate Bond ETF,Yes,"$15,001 - $50,000",,None (or less than $201)
@@ -287,7 +287,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Patenaude, Pamela H",2.7,Vanguard Small Cap Value Index,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",2.8,Schwab Fundamental Intl Small Co,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",2.9,Schwab International Index,Yes,"$1,001 - $15,000",,None (or less than $201)
-"Senate-confirmed/Patenaude, Pamela H",2.10,Vanguard Emerging Mkt Stock,Yes,"$1,001 - $15,000",,None (or less than $201)
+"Senate-confirmed/Patenaude, Pamela H",2.1,Vanguard Emerging Mkt Stock,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",2.11,Vanguard REIT Index,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",2.12,Schwab Treasury Infl Protected Sec,Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",2.13,Vanguard Interm Term Govt Bond Index,Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -304,7 +304,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Patenaude, Pamela H",3.7,Fidelity Advisor Small Cap A,Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",3.8,BlackRock Intl Opportunities A,Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",3.9,BlackRock Large Cap Core,Yes,"$50,001 - $100,000",,None (or less than $201)
-"Senate-confirmed/Patenaude, Pamela H",3.10,BlackRock US Opportunities Inv A,Yes,"$15,001 - $50,000",,None (or less than $201)
+"Senate-confirmed/Patenaude, Pamela H",3.1,BlackRock US Opportunities Inv A,Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",3.11,Fidelity Advisor New Insights  A,Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Patenaude, Pamela H",4,(S) McAdam Roth IRA,No,,,
 "Senate-confirmed/Patenaude, Pamela H",4.1,Fidelity Advisor Small Cap A,Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -351,7 +351,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Price, Thomas E",3.7,JP Morgan Research Market Neutral Fund Class L (JPMNX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",3.8,Merger Fund Instl (MERIX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",3.9,MFS Value I (MEIIX),Yes,"$1,001 - $15,000",,None (or less than $201)
-"Senate-confirmed/Price, Thomas E",3.10,Oppenheimer Developing Markets I (ODVIX),Yes,"$1,001 - $15,000",,None (or less than $201)
+"Senate-confirmed/Price, Thomas E",3.1,Oppenheimer Developing Markets I (ODVIX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",3.11,Victory Global Natural Resources Y (RSNYX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",3.12,Victory RS Select Growth Y (RSSYX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",3.13,Westcore SmallCap Value Instl (WISVX),Yes,"$1,001 - $15,000",,"$201 - $1,000"
@@ -366,7 +366,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Price, Thomas E",4.7,Goldman Sachs Strategic Income Instl (GSZIX),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "Senate-confirmed/Price, Thomas E",4.8,JP Morgan Research Market Neutral Fund Class L (JPMNX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",4.9,Merger Fund Instl (MERIX),Yes,"$1,001 - $15,000",,None (or less than $201)
-"Senate-confirmed/Price, Thomas E",4.10,MFS Value I (MEIIX),Yes,"$1,001 - $15,000",,"$201 - $1,000"
+"Senate-confirmed/Price, Thomas E",4.1,MFS Value I (MEIIX),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "Senate-confirmed/Price, Thomas E",4.11,Oppenheimer Developing Markets I (ODVIX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",4.12,RiverPark Wedgewood Instl (RWGIX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",4.13,Victory RS Select Growth Y (RSSYX),Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -384,7 +384,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Price, Thomas E",5.7,Fidelity Advisor Diversified Intl Instl (FDVIX),Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",5.8,First Eagle Overseas I (SGOIX),Yes,"$15,001 - $50,000",,"$201 - $1,000"
 "Senate-confirmed/Price, Thomas E",5.9,Goldman Sachs Strategic Income Instl (GSZIX),Yes,"$50,001 - $100,000",,"$1,001 - $2,500"
-"Senate-confirmed/Price, Thomas E",5.10,iShares Russell 2000 Growth (IWO),Yes,"$1,001 - $15,000",,"$1,001 - $2,500"
+"Senate-confirmed/Price, Thomas E",5.1,iShares Russell 2000 Growth (IWO),Yes,"$1,001 - $15,000",,"$1,001 - $2,500"
 "Senate-confirmed/Price, Thomas E",5.11,iShares Russell 2000 Value Index (IWN),Yes,"$1,001 - $15,000",,"$2,501 - $5,000"
 "Senate-confirmed/Price, Thomas E",5.12,JP Morgan Market Neutral Instl (JPMNX),Yes,"$15,001 - $50,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",5.13,Merger Fund Instl (MERIX),Yes,"$15,001 - $50,000",,"$201 - $1,000"
@@ -394,7 +394,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Price, Thomas E",5.17,RiverPark Wedgewood Instl (RWGIX),Yes,"$15,001 - $50,000",,"$1,001 - $2,500"
 "Senate-confirmed/Price, Thomas E",5.18,Vanguard Global ex-US Real Estate Index (VNQI),Yes,"$15,001 - $50,000",,"$1,001 - $2,500"
 "Senate-confirmed/Price, Thomas E",5.19,Vanguard Growth (VUG),Yes,"$50,001 - $100,000",,"$2,501 - $5,000"
-"Senate-confirmed/Price, Thomas E",5.20,Vanguard REIT Index ETF (VNQ),Yes,"$1,001 - $15,000",,"$2,501 - $5,000"
+"Senate-confirmed/Price, Thomas E",5.2,Vanguard REIT Index ETF (VNQ),Yes,"$1,001 - $15,000",,"$2,501 - $5,000"
 "Senate-confirmed/Price, Thomas E",5.21,Vanguard Value (VTV),Yes,"$50,001 - $100,000",,"$5,001 - $15,000"
 "Senate-confirmed/Price, Thomas E",5.22,Victory Global Natural Resources Y (RSNYX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "Senate-confirmed/Price, Thomas E",5.23,Victory RS Select Growth Y (RSSYX),Yes,"$1,001 - $15,000",,"$1,001 - $2,500"
@@ -404,7 +404,7 @@ file,#,description,eif,value,income-type,income-amount
 "Senate-confirmed/Price, Thomas E",5.27,WisdomTree Emerging Mkts Small Cap Divs (DGS),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "Senate-confirmed/Price, Thomas E",5.28,Wells Fargo Absolute Return Instl (WABIX),Yes,"$50,001 - $100,000",,"$1,001 - $2,500"
 "Senate-confirmed/Price, Thomas E",5.29,Brandes Intl Small Cap Equity A (BISAX),Yes,"None (or less than $1,001)",,"$201 - $1,000"
-"Senate-confirmed/Price, Thomas E",5.30,Goldman Sachs Strategic Income Fund Class A (GSZAX),Yes,"None (or less than $1,001)",,"$2,501 - $5,000"
+"Senate-confirmed/Price, Thomas E",5.3,Goldman Sachs Strategic Income Fund Class A (GSZAX),Yes,"None (or less than $1,001)",,"$2,501 - $5,000"
 "Senate-confirmed/Price, Thomas E",5.31,iShares Russell 1000 Growth (IWF),Yes,"None (or less than $1,001)",,"$1,001 - $2,500"
 "Senate-confirmed/Price, Thomas E",5.32,iShares Russell 1000 Value (IWD),Yes,"None (or less than $1,001)",,"$1,001 - $2,500"
 "Senate-confirmed/Price, Thomas E",5.33,Pear Tree Polaris Foreign Value (QFVOX),Yes,"None (or less than $1,001)",,"$201 - $1,000"
@@ -561,12 +561,12 @@ Senate-confirmed/Ross Wilbur L,16,Wells Fargo & Co New Dep SHS REPSTG,N/A,"$100,
 "White House/Augustine, Rene I",1,SCH Adv Cash Resrv Prem SWZXX,Yes,"$15,001 - $50,000",,None (or less than $201)
 "White House/Augustine, Rene I",2,Vanguard Small Cap Index NAESX,Yes,"$50,001 - $100,000",,"$1,001 - $2,500"
 "White House/Augustine, Rene I",3,National Basketball Association Pension,N/A,"$500,001 - $1,000,000",,None (or less than $201)
-"White House/Bash, John F",1,Cruz for President,,,Salary,"$31,250"
-"White House/Bash, John F",2,Doctors Hospital at Renaissance,,,Salary,"$117,391"
+"White House/Bash, John F",1,Cruz for President,,,Salary,"$31,250 "
+"White House/Bash, John F",2,Doctors Hospital at Renaissance,,,Salary,"$117,391 "
 "White House/Bash, John F",3,Doctors Hospital at Renaissance 401k,No,"$1,001 - $15,000",,None (or less than $201)
 "White House/Bash, John F",3.1,JPMorgan SmartRetirement Passive Blend 2045 C,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Blase, Brian C",1,Roth IRA - Vanguard Emerging Markets Stock Index Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Bremberg, Andrew",1,Etsy,N/A,,Direct Consumer Sales,"$7,075"
+"White House/Bremberg, Andrew",1,Etsy,N/A,,Direct Consumer Sales,"$7,075 "
 "White House/Cairncross, Sean",1,Consumer Health Products Association,N/A,,"salary, bonus",
 "White House/Cairncross, Sean",2,Growth Energy,N/A,,"salary, bonus",
 "White House/Cairncross, Sean",3,"BANK OF AMERICA, NA RASP (IIAXX)",N/A,"$1,001 - $15,000",,None (or less than $201)
@@ -649,15 +649,15 @@ Senate-confirmed/Ross Wilbur L,16,Wells Fargo & Co New Dep SHS REPSTG,N/A,"$100,
 "White House/Cairncross, Sean",80,ZOETIS INC (ZTS),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Carroll, James W ",1,"Irish Walk  (Retail Store, Alexandria, VA)",N/A,,salary,
 "White House/Clark, Justin",1,"Town of Newington, Connecticut",N/A,,salary,
-"White House/Cohen-Watnick, Ezra",1,Ketchum Inc. (public relations),N/A,"$50,001 - $100,000","salary, bonus","$52,000"
+"White House/Cohen-Watnick, Ezra",1,Ketchum Inc. (public relations),N/A,"$50,001 - $100,000","salary, bonus","$52,000 "
 "White House/Cohn, Gary",1,LAPEV LTD. Art Studio,N/A,"Over $1,000,000",,None (or less than $201)
 "White House/Cohn, Gary",2,SPDR S&P 500 ETF TRUST (SPY),Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Conway, Kellyanne",1,"Wachtell, Lipton, Rosen & Katz, 401(k)",No,"Over $1,000,000",Investment Income,"$18,429"
+"White House/Conway, Kellyanne",1,"Wachtell, Lipton, Rosen & Katz, 401(k)",No,"Over $1,000,000",Investment Income,"$18,429 "
 "White House/Conway, Kellyanne",1.1,Fidelity Limited Term Government Fund,,,,
 "White House/Conway, Kellyanne",2,"Wachtell, Lipton, Rosen & Katz, 2016 (law firm)",,,Partnership Share,
 "White House/Conway, Kellyanne",3,"Wachtell, Lipton, Rosen & Katz, Capital Account",,"Over $1,000,000",,
 "White House/Conway, Kellyanne",4,"Wachtell, Lipton, Rosen & Katz, 2017 (law firm)",,,Partnership Share,
-"White House/Dearborn, Rick",1,"Tucker Consulting, LLC. (Consulting Firm)",No,"$500,001 - $1,000,000","salary, LLC distribution","$468,500"
+"White House/Dearborn, Rick",1,"Tucker Consulting, LLC. (Consulting Firm)",No,"$500,001 - $1,000,000","salary, LLC distribution","$468,500 "
 "White House/Dearborn, Rick",2,SEP IRA,No,,,
 "White House/Dearborn, Rick",2.1,Vaneck Vectors Gold Miners ETF (GDX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Dearborn, Rick",2.2,Cash,N/A,"$1,001 - $15,000",,None (or less than $201)
@@ -668,7 +668,7 @@ Senate-confirmed/Ross Wilbur L,16,Wells Fargo & Co New Dep SHS REPSTG,N/A,"$100,
 "White House/Dearborn, Rick",2.7,Invesco Diversified Dividend Y (LCEYX),Yes,"$50,001 - $100,000",,"$1,001 - $2,500"
 "White House/Dearborn, Rick",2.8,John Hancock Bond I (JHBIX),Yes,"$15,001 - $50,000",,"$1,001 - $2,500"
 "White House/Dearborn, Rick",2.9,Metropolitan West Total Return Bond (MWTIX),Yes,"None (or less than $1,001)",,None (or less than $201)
-"White House/Dearborn, Rick",2.10,MFS International Diversification I (MDIJX),Yes,"$50,001 - $100,000",,"$201 - $1,000"
+"White House/Dearborn, Rick",2.1,MFS International Diversification I (MDIJX),Yes,"$50,001 - $100,000",,"$201 - $1,000"
 "White House/Dearborn, Rick",2.11,Oppenheimer International Diversified Y (OIDYX),Yes,"$50,001 - $100,000",,"$201 - $1,000"
 "White House/Dearborn, Rick",2.12,Oppenheimer Senior Floating Rate Y (OOSYX),Yes,"$15,001 - $50,000",,"$1,001 - $2,500"
 "White House/Dearborn, Rick",2.13,Pioneer Fundamental Growth (FUNYX),Yes,"$50,001 - $100,000",,"$1,001 - $2,500"
@@ -684,7 +684,7 @@ Senate-confirmed/Ross Wilbur L,16,Wells Fargo & Co New Dep SHS REPSTG,N/A,"$100,
 "White House/Dearborn, Rick",3.7,Oppenheimer International Diversified Y (OIDYX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Dearborn, Rick",3.8,Oppenheimer Senior Floating Rate Y (OOSYX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Dearborn, Rick",3.9,Pioneer Fundamental Growth Y (FUNYX),Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Dearborn, Rick",3.10,Virtus Multi Select Short Term Bond (PIMSX),Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Dearborn, Rick",3.1,Virtus Multi Select Short Term Bond (PIMSX),Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Delrahim, Makan",1,"Jewish Federation Council of Los Angeles, Defined Benefit Plan",N/A,,,None (or less than $201)
 "White House/Dhillon, Uttam",1,Burlington Coat Factory,N/A,,"salary, bonus",
 "White House/Dhillon, Uttam",2,"J.C. Penney Corporation, Inc.",N/A,,salary,
@@ -734,11 +734,11 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Gigicos, George",1.4,EQ/MidCap Index,Yes,"$15,001 - $50,000",,None (or less than $201)
 "White House/Goldschmidt, Abe E",1,FRS 2050 Retirement Fund,Yes,"$15,001 - $50,000",,None (or less than $201)
 "White House/Goldschmidt, Abe E",2,State Attorney's Office (Miami-Dade),N/A,,Salary,
-"White House/Gorka, Sebastian",1,Threat Knowledge Group (national security training and analysis),N/A,,"salary, LLC distribution","$56,850"
-"White House/Gorka, Sebastian",2,Council on Global Security,N/A,,consulting fees,"$25,500"
-"White House/Gorka, Sebastian",3,Claire Booth Luce Policy Institute - 30 July 2016,N/A,"$1,001 - $15,000",Honorarium,"$1,000"
-"White House/Gorka, Sebastian",4,"Middle East Broadcasting - 4/13, 6/19, 8/10, 10/24",N/A,"None (or less than $1,001)",Honorarium,"$1,000"
-"White House/Gorka, Sebastian",5,Heritage Foundation - 30 Sept 2016,N/A,"None (or less than $1,001)",Honorarium,$250
+"White House/Gorka, Sebastian",1,Threat Knowledge Group (national security training and analysis),N/A,,"salary, LLC distribution","$56,850 "
+"White House/Gorka, Sebastian",2,Council on Global Security,N/A,,consulting fees,"$25,500 "
+"White House/Gorka, Sebastian",3,Claire Booth Luce Policy Institute - 30 July 2016,N/A,"$1,001 - $15,000",Honorarium,"$1,000 "
+"White House/Gorka, Sebastian",4,"Middle East Broadcasting - 4/13, 6/19, 8/10, 10/24",N/A,"None (or less than $1,001)",Honorarium,"$1,000 "
+"White House/Gorka, Sebastian",5,Heritage Foundation - 30 Sept 2016,N/A,"None (or less than $1,001)",Honorarium,$250 
 "White House/Greenblatt, Jason",1,The Rocking Chair LLC (self-employed doctor),N/A,,,
 "White House/Gribbin, David",1,Providence Academy (Private Christian School),N/A,,hourly pay,
 "White House/Gribbin, David",2,Pier 1 Imports (Retail sales),N/A,,hourly pay,
@@ -758,7 +758,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Hudson, Hope R",1.7,PIMCO All Asset Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.8,Hennessy Focus Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.9,Lord Abbett High Yield Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Hudson, Hope R",1.10,MFS Int'l Value Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Hudson, Hope R",1.1,MFS Int'l Value Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.11,Loomis Sayles Core Plus Bond Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.12,American Funds New World Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.13,T Rowe Price Real Estate Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -768,7 +768,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Hudson, Hope R",1.17,PIMCO Real Return Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.18,DEUTSCHE Enhanced CMDY Strategy,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.19,AMG Managers Skyline Special Equities Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Hudson, Hope R",1.20,TCW Total Return Bond Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Hudson, Hope R",1.2,TCW Total Return Bond Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.21,Victory Sycamore Established Value Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hudson, Hope R",1.22,Wasatch Int'l Opportunity Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Hunter, Mallory",1,National Republican Congressional Committee (Political Organization),N/A,,Salary and bonus,
@@ -789,7 +789,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Katsas, Gregory",6,"Automatic Data Processing, Inc. - Common Stock (sold)",No,"None (or less than $1,001)",Capital Gains Dividends,"$1,001 - $2,500"
 "White House/Katsas, Gregory",7,Brinks Co (BCO) (sold),No,"None (or less than $1,001)",Capital Gains,"$1,001 - $2,500"
 "White House/Katsas, Gregory",8,"Brocade Communications Systems, Inc. - Common Stock (sold)",No,"None (or less than $1,001)",Capital Gains,"$5,001 - $15,000"
-"White House/Katsas, Gregory",9,iShares Nasdaq Biotechnology (covered calls),No,"None (or less than $1,001)",Ordinary Income,"$2,210"
+"White House/Katsas, Gregory",9,iShares Nasdaq Biotechnology (covered calls),No,"None (or less than $1,001)",Ordinary Income,"$2,210 "
 "White House/Katsas, Gregory",10,Callon Petroleum Co (sold),No,"None (or less than $1,001)",Capital Gains,"$2,501 - $5,000"
 "White House/Katsas, Gregory",11,"Children's Place, Inc. (The) - Common Stock (sold)",No,"None (or less than $1,001)",Capital Gains,"$15,001 - $50,000"
 "White House/Katsas, Gregory",12,Columbia Sportswear Company - Common Stock (sold),No,"None (or less than $1,001)",Dividends,"$201 - $1,000"
@@ -812,7 +812,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Katsas, Gregory",29,PACCAR Inc. - Common Stock (sold),No,"None (or less than $1,001)",Capital Gains,"$201 - $1,000"
 "White House/Katsas, Gregory",30,"Palo Alto Networks, Inc.",No,"None (or less than $1,001)",Capital Gains,"$2,501 - $5,000"
 "White House/Katsas, Gregory",31,Pan American Silver Corp. - Common Stock,No,"None (or less than $1,001)",Capital Gains,"$201 - $1,000"
-"White House/Katsas, Gregory",32,SE Spectra Energy (covered call) (sold),No,"None (or less than $1,001)",Ordinary Income Call Premium,$638
+"White House/Katsas, Gregory",32,SE Spectra Energy (covered call) (sold),No,"None (or less than $1,001)",Ordinary Income Call Premium,$638 
 "White House/Katsas, Gregory",33,Spectra Energy Corp (sold),No,"None (or less than $1,001)",Capital Gains,"$5,001 - $15,000"
 "White House/Katsas, Gregory",34,iShares Nasdaq Biotechnology Index Fund,No,"$15,001 - $50,000",Capital Gains,"$5,001 - $15,000"
 "White House/Katsas, Gregory",35,FRT Federal Realty Invite Reit (sold),No,"None (or less than $1,001)",Capital Gains,"$201 - $1,000"
@@ -842,7 +842,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Kelly, Marcia",5.7,Harbor FD Cap Appreciation Instl CL,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Kelly, Marcia",5.8,John Hancock Funds II Absolute Return Currency FD CL,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Kelly, Marcia",5.9,Meridian FD Inc Small Cap Growth FD Investor CL,Yes,"$1,001 - $15,000",,"$201 - $1,000"
-"White House/Kelly, Marcia",5.10,JP Morgan TR I US Large Cap Core Plus FD SEL CL,Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Kelly, Marcia",5.1,JP Morgan TR I US Large Cap Core Plus FD SEL CL,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Kelly, Marcia",5.11,American Funds Europacific Growth Fund Class f-2,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Kelly, Marcia",5.12,Oppenheimer Dev Mkts CL Y,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Kelly, Marcia",5.13,PIMCO FDS PAC INVT Mgmt Ser Emerging Mkts BD FD Instl,Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -851,7 +851,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Kelly, Marcia",5.16,T Rowe Price Mid-Cap Growth Fund Inc.,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Kelly, Marcia",5.17,Touchstone FDS Group VID Cap Value Fund,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Kelly, Marcia",5.18,Virtus Opportunities TR Emerging Mkts Opptys FD,Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Knight, Shahira E",1,"Retail Concepts, Inc. (Retail)",N/A,,salary,"$118,800"
+"White House/Knight, Shahira E",1,"Retail Concepts, Inc. (Retail)",N/A,,salary,"$118,800 "
 "White House/Knight, Shahira E",2,JPMorgan US Equity A,Yes,"$15,001 - $50,000",,None (or less than $201)
 "White House/Knight, Shahira E",3,Nuveen Mid Cap Growth Opp,Yes,"$15,001 - $50,000",,"$201 - $1,000"
 "White House/Knight, Shahira E",4,Virtus Mid-Cap Value,Yes,"$15,001 - $50,000",,None (or less than $201)
@@ -907,7 +907,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Kushner, Jared",1.7,"IT Eyewear LLC (Licensing contracts for sunglasses; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.8,"IT Eyewear Manager Corp (Pass-Thru Company for IT Eyewear LLC; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.9,"IT Fashion Jewelry LLC (Licensing contracts for costume jewelry; New York, NY)",N/A,,,
-"White House/Kushner, Jared",1.10,"IT Fashion Jewelry Member Corp (Pass-Thru Company for IT Fashion Jewelry LLC; New York, NY)",N/A,,,
+"White House/Kushner, Jared",1.1,"IT Fashion Jewelry Member Corp (Pass-Thru Company for IT Fashion Jewelry LLC; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.11,"IT Fragrance LLC (Licensing contracts for perfume; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.12,"IT Fragrance Manager Corp (Pass-Thru Company for IT Fragrance LLC; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.13,IT Handbags LLC (Licensing contracts for handbags; New York; NY),N/A,,,
@@ -917,7 +917,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Kushner, Jared",1.17,"IT Promotions LLC (Event Promoter in New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.18,"Ivanka Trump Marks LLC (Owner of Various Trademarks; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.19,"Ivanka Marks Holding Corp (Pass-Thru Company for Ivanka Trump Marks LLC; New York, NY)",N/A,,,
-"White House/Kushner, Jared",1.20,"Ivanka Trump Marks II LLC (Licensing contracts for shoes; New York, NY)",N/A,,,
+"White House/Kushner, Jared",1.2,"Ivanka Trump Marks II LLC (Licensing contracts for shoes; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.21,"Ivanka Trump Marks II Member Corp (Pass- Thru Company for Ivanka Trump Marks II LLC; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.22,"Ivanka Trump Marks Jewelry LLC (Licensing contracts for fine jewelry; New York, NY)",N/A,,,
 "White House/Kushner, Jared",1.23,"Ivanka Trump Marks Jewelry Member Corp (Pass-Thru Company for Ivanka Trump Marks Jewelry LLC; New York, NY)",N/A,,,
@@ -938,7 +938,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Kushner, Jared",10,"""The Trump Card,"" Simon & Schuster (value not readily ascertainable)",N/A,,,None (or less than $201)
 "White House/Kushner, Jared",11,IT OPERATIONS LLC (all assets reflected in the Ivanka M. Trump Business Trust),N/A,"None (or less than $1,001)",Rent or Royalties,"Over $5,000,000"
 "White House/Kushner, Jared",12,"WWW OPERATIONS LLC (holds URL associated with Women Who Work; value not readily ascertainable; New York, NY)",N/A,,,None (or less than $201)
-"White House/Lansing, Gerrit",1,POLITICO (Media company),N/A,,Salary,"$85,000"
+"White House/Lansing, Gerrit",1,POLITICO (Media company),N/A,,Salary,"$85,000 "
 "White House/Lansing, Gerrit",2,Politico 401K,No,"$1,001 - $15,000",,None (or less than $201)
 "White House/Liddell, Chris",1,Fidelity Rollover IRA #1,No,,,
 "White House/Liddell, Chris",1.1,FDIC insured deposit at US Bank,N/A,"$1,001 - $15,000",Interest,None (or less than $201)
@@ -979,7 +979,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Marquis, Ashley H.",2.7,SCHWAB INTERNATIONAL EQUITY ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Marquis, Ashley H.",2.8,SCHWAB US LARGE CAP ETF,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Marquis, Ashley H.",2.9,SCHWAB US SMALL CAP ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Marquis, Ashley H.",2.10,SPDR BLMBRG BRCLY INTRMDT TRM ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Marquis, Ashley H.",2.1,SPDR BLMBRG BRCLY INTRMDT TRM ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Marquis, Ashley H.",2.11,VANECK VECTORS JP MORGAN EMERGING MARKETS LOC CURRENCY BD ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Marquis, Ashley H.",2.12,VANGUARD GLBAL EX US REAL ES,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Marquis, Ashley H.",2.13,VANGUARD MORTGAGE BACKED SEC ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
@@ -990,9 +990,9 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Marshall, Kirk R",3,Accenture 401(k),Yes,,,
 "White House/Marshall, Kirk R",4,Accenture Bonus,,,,
 "White House/Matich, Nicholas T",1,Vanguard Total Stock Market Index Fund Admiral Shares,Yes,"$50,001 - $100,000",,"$2,501 - $5,000"
-"White House/McFarland, Kathleen",1,Village of Southampton Planning Board,N/A,,Planning Board Member payment,"$4,000"
+"White House/McFarland, Kathleen",1,Village of Southampton Planning Board,N/A,,Planning Board Member payment,"$4,000 "
 "White House/McFarland, Kathleen",2,Excellon,N/A,"$50,001 - $100,000",Interest,"$2,501 - $5,000"
-"White House/McFarland, Kathleen",3,Excellon Resources Inc,N/A,,Directors fees,"$17,106"
+"White House/McFarland, Kathleen",3,Excellon Resources Inc,N/A,,Directors fees,"$17,106 "
 "White House/McFarland, Kathleen",4,IRA,,,,
 "White House/McFarland, Kathleen",4.1,DREYFUS TREAS SECURITIES CASH MGT PT,N/A,"$100,001 - $250,000",,None (or less than $201)
 "White House/McFarland, Kathleen",4.2,U.S. TREASURY BILLS,N/A,"None (or less than $1,001)",Dividends,"$2,501 - $5,000"
@@ -1003,7 +1003,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/McFarland, Kathleen",4.7,VANGUARD FTSE EMERGING MARKETS ETF,Yes,"$15,001 - $50,000",,"$201 - $1,000"
 "White House/McFarland, Kathleen",4.8,VANGUARD IND FD MID-CAP,Yes,"$50,001 - $100,000",,"$201 - $1,000"
 "White House/McFarland, Kathleen",4.9,VANGUARD REIT ETF,Yes,"$15,001 - $50,000",,"$1,001 - $2,500"
-"White House/McFarland, Kathleen",4.10,VANGUARD SMALL-CAP ETF,Yes,"$50,001 - $100,000",,"$201 - $1,000"
+"White House/McFarland, Kathleen",4.1,VANGUARD SMALL-CAP ETF,Yes,"$50,001 - $100,000",,"$201 - $1,000"
 "White House/McFarland, Kathleen",4.11,VANGUARD WINDSOR-ADM,Yes,"$500,001 - $1,000,000",,"$15,001 - $50,000"
 "White House/McGahn, Donald F",1,E*Trade IRA (cash),N/A,"$15,001 - $50,000",,None (or less than $201)
 "White House/McGahn, Donald F",2,Empowerment Retirement IRA,No,"$1,001 - $15,000",,None (or less than $201)
@@ -1024,7 +1024,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Meyer, Joyce Y",3.7,Vanguard Total Bond Market ETF,Yes,"$15,001 - $50,000",,"$201 - $1,000"
 "White House/Meyer, Joyce Y",3.8,Vanguard Value ETF,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Meyer, Joyce Y",3.9,iShares Core S&P Small Cap ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
-"White House/Meyer, Joyce Y",3.10,Vanguard Mid Cap ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Meyer, Joyce Y",3.1,Vanguard Mid Cap ETF,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Morgan, Matthew",1,"Indiana University Health, Inc. (501(c)(3) Healthcare System)",N/A,,"salary, bonus",
 "White House/Morgan, Matthew",2,JPMorgan SmartRetirement 2050,Yes,"$50,001 - $100,000",,"$201 - $1,000"
 "White House/Morgan, Matthew",3,JPMorgan SmartRetirement 2045,Yes,"$50,001 - $100,000",,"$201 - $1,000"
@@ -1051,7 +1051,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Nevins, Kristan K",3.7,HSBC Holdings (HSBC),N/A,"$1,001 - $15,000",Dividends,"$201 - $1,000"
 "White House/Nevins, Kristan K",3.8,AbbVie Inc. (ABBV),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Nevins, Kristan K",3.9,Merck & Co (MRK),N/A,"$1,001 - $15,000",,None (or less than $201)
-"White House/Nevins, Kristan K",3.10,GlaxoSmithKline (GSK),N/A,"$1,001 - $15,000",Dividends,"$201 - $1,000"
+"White House/Nevins, Kristan K",3.1,GlaxoSmithKline (GSK),N/A,"$1,001 - $15,000",Dividends,"$201 - $1,000"
 "White House/Nevins, Kristan K",3.11,Lockheed Martin (LMT),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Nevins, Kristan K",3.12,Eaton Corporation (ETN),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Nevins, Kristan K",3.13,Microchip Technology  Inc (MCHP),N/A,"$1,001 - $15,000",,None (or less than $201)
@@ -1061,7 +1061,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Nevins, Kristan K",3.17,Duke Energy Corporation (DUK),N/A,"$1,001 - $15,000",Dividends,"$201 - $1,000"
 "White House/Nevins, Kristan K",3.18,Weyerhaeuser Co (WY),N/A,"$1,001 - $15,000",Dividends,"$201 - $1,000"
 "White House/Nevins, Kristan K",3.19,ALPS (AMLP),N/A,"$1,001 - $15,000",,None (or less than $201)
-"White House/Nevins, Kristan K",3.20,Digital Realty Trust (DLR),N/A,"$1,001 - $15,000",,None (or less than $201)
+"White House/Nevins, Kristan K",3.2,Digital Realty Trust (DLR),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Nevins, Kristan K",3.21,Simon Property Group Inc (SPG),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Nevins, Kristan K",3.22,Well Tower Inc (HCN),N/A,"$1,001 - $15,000",Dividends,"$201 - $1,000"
 "White House/Nevins, Kristan K",4,401K,No,,,
@@ -1080,7 +1080,7 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Niceta, Anna C",3.7,DFA Investment Grade Instl (DFAPX),Yes,"$15,001 - $50,000",,
 "White House/Niceta, Anna C",3.8,DFA Global Real Estate Securities (DFGEX),Yes,"$1,001 - $15,000",,
 "White House/Niceta, Anna C",3.9,DFA Selectively Hedged Global Fixed Income (DFSHX),Yes,"$1,001 - $15,000",,
-"White House/Niceta, Anna C",3.10,DFA International Vector Equity Instl (DFVQX),Yes,"$1,001 - $15,000",,
+"White House/Niceta, Anna C",3.1,DFA International Vector Equity Instl (DFVQX),Yes,"$1,001 - $15,000",,
 "White House/Paoletta, Mark",1,"Harris, Wiltshire & Grannis",N/A,,Partnership distribution,
 "White House/Paoletta, Mark",2,"Harris, Wiltshire & Grannis capital account",N/A,"$15,001 - $50,000",,None (or less than $201)
 "White House/Paoletta, Mark",3,American Funds EuroPacific Gr R6,Yes,"$50,001 - $100,000",,None (or less than $201)
@@ -1105,11 +1105,11 @@ White House/Diaz-Rosillo Carlos,1,Harvard University,N/A,,Salary,
 "White House/Pitcock, Joshua",6,Marsh and McClellan 401k - Dodge & Cox Stock Fund,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Pitcock, Joshua",7,Marsh & McClellan 401k - EuroPacific Growth Fund,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Pitcock, Joshua",8,Marsh & McClellan 401k - INVESCO Fixed Income Fund,Yes,"None (or less than $1,001)",,None (or less than $201)
-"White House/Reynolds, Lindsay B",1,Meridian Partners LLC (Aviation Services),N/A,,LLC distribution,"$248,744"
-"White House/Reynolds, Lindsay B",2,Midwest Jet Center LLC (Charter Plane Services),N/A,,LLC distribution,"$30,436"
-"White House/Reynolds, Lindsay B",3,EJCR LLC (Charter Flight Services),N/A,,LLC distribution,"$87,042"
-"White House/Reynolds, Lindsay B",4,Restaurant Management Inc (Franchise Owner - Fast Food Restaurants),N/A,,director fees,"$8,500"
-"White House/Reynolds, Lindsay B",5,Cincinnati Sports Mall  (Fitness Gym),N/A,,director fees,"$7,000"
+"White House/Reynolds, Lindsay B",1,Meridian Partners LLC (Aviation Services),N/A,,LLC distribution,"$248,744 "
+"White House/Reynolds, Lindsay B",2,Midwest Jet Center LLC (Charter Plane Services),N/A,,LLC distribution,"$30,436 "
+"White House/Reynolds, Lindsay B",3,EJCR LLC (Charter Flight Services),N/A,,LLC distribution,"$87,042 "
+"White House/Reynolds, Lindsay B",4,Restaurant Management Inc (Franchise Owner - Fast Food Restaurants),N/A,,director fees,"$8,500 "
+"White House/Reynolds, Lindsay B",5,Cincinnati Sports Mall  (Fitness Gym),N/A,,director fees,"$7,000 "
 "White House/Reynolds, Lindsay B",6,EJCR 401(K) Plan,Yes,"$15,001 - $50,000",,"$201 - $1,000"
 White House/Sanders. Sarah H,1,The Wickers Group (Political Consulting),N/A,,"salary, bonus, partnership share",
 White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"$15,001 - $50,000",Interest,"$1,001 - $2,500"
@@ -1123,7 +1123,7 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Schouten, Schuyler",1.7,Mutual of America International Fund,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Schouten, Schuyler",1.8,Deutsche Variable Series I Capital Growth VIP,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Schouten, Schuyler",1.9,American Funds Insurance Series New World Fund,Yes,"None (or less than $1,001)",,None (or less than $201)
-"White House/Schouten, Schuyler",1.10,Mutual of America Mid-Term Bond Fund,Yes,"None (or less than $1,001)",,None (or less than $201)
+"White House/Schouten, Schuyler",1.1,Mutual of America Mid-Term Bond Fund,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Schouten, Schuyler",1.11,Vanguard VIF REIT Index Portfolio,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Schultz, James D",1,SEPTA (Southeastern Pennsylvania Transporation Authority),N/A,,salary,
 "White House/Schultz, James D",2,"SEPTA, defined benefit plan (value not readily ascertainable)",N/A,,,None (or less than $201)
@@ -1190,7 +1190,7 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Spicer, Sean",2.7,Franklin Small Cap Value VIP Fd2,Yes,"None (or less than $1,001)",,"$5,001 - $15,000"
 "White House/Spicer, Sean",2.8,VY JPMorgan Mid Cap Value Portfolio Class I,Yes,"None (or less than $1,001)",,"$2,501 - $5,000"
 "White House/Spicer, Sean",2.9,VY FMR Diversified Mid Cap Portfolio Class,Yes,"None (or less than $1,001)",,"$5,001 - $15,000"
-"White House/Spicer, Sean",2.10,Voya Russell Small Cap Index Portfolio I,Yes,"None (or less than $1,001)",,"$5,001 - $15,000"
+"White House/Spicer, Sean",2.1,Voya Russell Small Cap Index Portfolio I,Yes,"None (or less than $1,001)",,"$5,001 - $15,000"
 "White House/Spicer, Sean",2.11,VY Oppenheimer Global Portfolio Class I,Yes,"None (or less than $1,001)",,"$5,001 - $15,000"
 "White House/Spicer, Sean",2.12,Dodge & Cox International Stock Fund,Yes,"None (or less than $1,001)",,"$5,001 - $15,000"
 "White House/Spicer, Sean",2.13,Lazard Emerging Markets Equity Portfolio Open Shares,Yes,"None (or less than $1,001)",,"$2,501 - $5,000"
@@ -1213,7 +1213,7 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Talento, Kathryn",2.7,iShares MSCI Japan Index,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",2.8,Ford Motor Co,No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",2.9,General Mills Inc,No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
-"White House/Talento, Kathryn",2.10,Intl Business Machines Corp,No,"$1,001 - $15,000",Dividends Capital Gains,None (or less than $201)
+"White House/Talento, Kathryn",2.1,Intl Business Machines Corp,No,"$1,001 - $15,000",Dividends Capital Gains,None (or less than $201)
 "White House/Talento, Kathryn",2.11,iShares S&P MidCap 400 Growth Index,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",2.12,iShares Russell 1000 Growth Index,Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",2.13,iShares Russell 2000 Index,Yes,"$1,001 - $15,000",,"$201 - $1,000"
@@ -1223,7 +1223,7 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Talento, Kathryn",2.17,Kroger Co,No,"$15,001 - $50,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",2.18,MEDICAL PPTYS TR INC (MPW),No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",2.19,NetFlix Inc (NFLX),No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
-"White House/Talento, Kathryn",2.20,Otter Tail Corporation - Common Stock,No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
+"White House/Talento, Kathryn",2.2,Otter Tail Corporation - Common Stock,No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",2.21,PPL Corp (PPL),No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",2.22,POWERSHARES FTSE RAFI US 1000 (PRF),Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Talento, Kathryn",2.23,AT&T Inc (T),No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
@@ -1233,7 +1233,7 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Talento, Kathryn",2.27,VANGUARD INDEX FDS FORMERLY VANGUARD INDEX TR (VOO),Yes,"$15,001 - $50,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",2.28,VANGUARD INTL EQUITY INDEX FUND INC FTSE EMERGING MARKETS ET (vwo),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",2.29,VANGUARD WHITEHALL FDS HIGH DIVIDEND YIELD ETF SHS (vym),Yes,"$15,001 - $50,000",,"$201 - $1,000"
-"White House/Talento, Kathryn",2.30,iShares S&P Global Timber & Forestry Idx,Yes,"$1,001 - $15,000",,None (or less than $201)
+"White House/Talento, Kathryn",2.3,iShares S&P Global Timber & Forestry Idx,Yes,"$1,001 - $15,000",,None (or less than $201)
 "White House/Talento, Kathryn",2.31,Exxon Mobil Corp,No,"$15,001 - $50,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",2.32,Cash account,No,"$1,001 - $15,000",Interest,None (or less than $201)
 "White House/Talento, Kathryn",3,Lockheed 401K,No,"$100,001 - $250,000",Dividends Capital Gains Interest,"$2,501 - $5,000"
@@ -1246,7 +1246,7 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Talento, Kathryn",3.7,Lockheed Martin stock fund ESOP Fund,No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",3.8,Vanguard Small-Cap Index Fund ETF Shares (vb),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",3.9,ProShares S&P 500 Dividend Aristocrats ETF (nobl),Yes,"$1,001 - $15,000",,"$201 - $1,000"
-"White House/Talento, Kathryn",3.10,Vanguard Small-Cap Value Index Fund ETF Shares (vbr),Yes,"$1,001 - $15,000",,"$201 - $1,000"
+"White House/Talento, Kathryn",3.1,Vanguard Small-Cap Value Index Fund ETF Shares (vbr),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",3.11,Planet Fitness (plnt),No,"$1,001 - $15,000",Dividends Capital Gains,"$201 - $1,000"
 "White House/Talento, Kathryn",3.12,Vanguard Telecommunication Services Index Fund ETF (vox),Yes,"$1,001 - $15,000",,"$201 - $1,000"
 "White House/Talento, Kathryn",3.13,Vanguard High Dividend Yield Index Fund ETF (vym),Yes,"$1,001 - $15,000",,"$201 - $1,000"
@@ -1264,6 +1264,6 @@ White House/Sanders. Sarah H,2,Retirement Account (US Bank - Cash Account),N/A,"
 "White House/Talento, Kathryn",4.7,T Rowe Price Mid Cap Growth,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Talento, Kathryn",4.8,Wellington Small Cap 2000,Yes,"None (or less than $1,001)",,None (or less than $201)
 "White House/Talento, Kathryn",4.9,Longleaf Partners Small Cap,Yes,"None (or less than $1,001)",,None (or less than $201)
-"White House/Talento, Kathryn",5,Fairfax County,N/A,,Monthly County Stipend,"$3,492"
+"White House/Talento, Kathryn",5,Fairfax County,N/A,,Monthly County Stipend,"$3,492 "
 "White House/Teller, Paul",1,"Maximize Strategies (business strategy consulting), Chevy Chase, MD",N/A,,Business Income,
 "White House/Winfree, Paul",1,Employer US GAO,N/A,,salary,

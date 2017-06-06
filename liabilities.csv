@@ -5,30 +5,30 @@ file,#,creditor-name,type,amount,year-incurred,rate,term
 "Department of Education/Cox-Roush, Deborah",2,Internal Revenue Service,Installment Agreement,"$15,001 - $50,000",2012,3%,on demand
 "Department of Education/Cox-Roush, Deborah",3,American Express,Credit Card,"$15,001 - $50,000",2012,16.74%,revolving credit
 "Department of Education/Eck, Kevin",1,Citibank N.A.,Credit Card,"$10,001 - $15,000",2009,8.24,Revolving
-"Department of Education/Frendewey, Matthew",1,Navient,Student Loan,"$15,001 - $50,000",2005,6.5%,10 years
+"Department of Education/Frendewey, Matthew",1,Navient,Student Loan,"$15,001 - $50,000",2005,6.50%,10 years
 "Department of Education/Ham, Holly",1,Morgan Stanley Bank,Exercised Line of Credit,"$50,001 - $100,000",2011,LIBOR + 3%,on demand
-"Department of Education/Hudson, Alexandra",1,U.S. Department of Education,Student Loan,"$100,001 - $250,000",2015,3.4%,10 years
+"Department of Education/Hudson, Alexandra",1,U.S. Department of Education,Student Loan,"$100,001 - $250,000",2015,3.40%,10 years
 "Department of Education/Jones, Amy L",1,U.S. Bank,Credit Card,"$10,001 - $15,000",2015,0%,N/A
-"Department of Education/Jones, Amy L",2,BB&T,Credit Card,"$10,001 - $15,000",2016,7.4%,N/A
+"Department of Education/Jones, Amy L",2,BB&T,Credit Card,"$10,001 - $15,000",2016,7.40%,N/A
 "Department of Education/Kossack, Andrew",1,Navient Corporation,Student Loan,"$15,001 - $50,000",2007,6.5,25
 "Department of Education/Lee, Ebony Letise",1,Consolidated Direct Loans,Student Loan,"$15,001 - $50,000",2001,7.875,20 years
 "Department of Education/Manning, James",1,CHASE BANK,Credit Card,"$15,001 - $50,000",2014,18%,REVOLVING
-"Department of Education/Reynolds, Cody",1,Sallie Mae,Student Loan,"$10,001 - $15,000",2016,10.250%,72 months
-"Department of Education/Reynolds, Cody",2,Great Lakes,Student Loan,"$15,001 - $50,000",2016,6.8%,10 year
+"Department of Education/Reynolds, Cody",1,Sallie Mae,Student Loan,"$10,001 - $15,000",2016,10.25%,72 months
+"Department of Education/Reynolds, Cody",2,Great Lakes,Student Loan,"$15,001 - $50,000",2016,6.80%,10 year
 "Department of Education/Toner, Jana",1,Citibank,Exercised Line of Credit,"$100,001 - $250,000",2016,3.99,36 months
 "Department of Education/Young, Patrick",1,Fed Loan Servicing,Student Loan,"$50,001 - $100,000",2010,6,10
 "Department of Housing and Urban Development/Bass, Deidre",1,Nelnet,Student Loan,"$15,001 - $50,000",2002,4.7,
-"Department of Housing and Urban Development/Bowes, Robert",1,Chase,Mortgage on Personal Residence,"$500,001 - $1,000,000",2011,2.875%,30
-"Department of Housing and Urban Development/Bowes, Robert",2,Suntrust,Exercised Line of Credit,"$100,001 - $250,000",2011,4.0%,5
+"Department of Housing and Urban Development/Bowes, Robert",1,Chase,Mortgage on Personal Residence,"$500,001 - $1,000,000",2011,2.88%,30
+"Department of Housing and Urban Development/Bowes, Robert",2,Suntrust,Exercised Line of Credit,"$100,001 - $250,000",2011,4.00%,5
 "Department of Housing and Urban Development/Kasper, Maren",1,Navient,Student Loan,"$10,001 - $15,000",2009,5.5,15
 "Department of the Treasury/Bohigian, David",1,American Express,Credit Card,"$15,001 - $50,000",2017,Paid in Full Every Month,revolving
 "Department of the Treasury/Bohigian, David",2,"UBS Financial Services, Inc. Line of Credit",Exercised Line of Credit,"$500,001 - $1,000,000",2016,3.5,NA- revolving line of credit
 "Department of the Treasury/Chung, Jason",1,Chase Visa Card Services,,"$10,001 - $15,000",,,
-"Department of the Treasury/Claver-Carone, Mauricio",1,TD Bank,Mortgage (investment/ren tal property),"$250,001 - $500,000",2013,3.6%,30-Year
-"Department of the Treasury/Claver-Carone, Mauricio",2,Ocean Bank,Exercised Line of Credit,"$50,001 - $100,000",2012,2.5%,10-Year
-"Department of the Treasury/Claver-Carone, Mauricio",3,ACS Education,Student Loan,"$50,001 - $100,000",2002,4.375%,30-year
-"Department of the Treasury/Claver-Carone, Mauricio",4,Navient,Student Loan,"$50,001 - $100,000",2004,5.375%,30-year
-"Department of the Treasury/Hauptman, Kyle",1,Commonwealth Bank of Australia,Mortgage (investment/ren tal property),"$50,001 - $100,000",2010,2.1%,25 years
+"Department of the Treasury/Claver-Carone, Mauricio",1,TD Bank,Mortgage (investment/ren tal property),"$250,001 - $500,000",2013,3.60%,30-Year
+"Department of the Treasury/Claver-Carone, Mauricio",2,Ocean Bank,Exercised Line of Credit,"$50,001 - $100,000",2012,2.50%,10-Year
+"Department of the Treasury/Claver-Carone, Mauricio",3,ACS Education,Student Loan,"$50,001 - $100,000",2002,4.38%,30-year
+"Department of the Treasury/Claver-Carone, Mauricio",4,Navient,Student Loan,"$50,001 - $100,000",2004,5.38%,30-year
+"Department of the Treasury/Hauptman, Kyle",1,Commonwealth Bank of Australia,Mortgage (investment/ren tal property),"$50,001 - $100,000",2010,2.10%,25 years
 "Department of the Treasury/Hauptman, Kyle",2,BB&T,Mortgage (investment/ren tal property),"$100,001 - $250,000",2015,4.25,30 years
 "Department of the Treasury/Hauptman, Kyle",3,BB&T,Mortgage (investment/ren tal property),"$100,001 - $250,000",2015,4.25,30 years
 "Department of the Treasury/Hauptman, Kyle",4,Navient,Student Loan,"$10,001 - $15,000",2004,1.75,30 years
@@ -46,15 +46,15 @@ file,#,creditor-name,type,amount,year-incurred,rate,term
 "Department of the Treasury/Mkrtchian, Edgar",9,US Government,Student Loan,"$15,001 - $50,000",2013,5.41,10 years
 "Department of the Treasury/Mkrtchian, Edgar",10,US Government,Student Loan,"$50,001 - $100,000",2013,6.41,10 years
 "Department of the Treasury/Mkrtchian, Edgar",11,US Government,Student Loan,"$15,001 - $50,000",2012,6.8,10 years
-"Department of the Treasury/Mkrtchian, Edgar",12,US Government,Student Loan,"$50,001 - $100,000",2012,7.90,10 years
-"Department of the Treasury/Mkrtchian, Edgar",13,US Government,Student Loan,"$15,001 - $50,000",2011,6.80,10 years
-"Department of the Treasury/Mkrtchian, Edgar",14,US Government,Student Loan,"$15,001 - $50,000",2011,6.80,10 years
-"Department of the Treasury/Mkrtchian, Edgar",15,US Government,Student Loan,"$50,001 - $100,000",2011,7.90,10 years
+"Department of the Treasury/Mkrtchian, Edgar",12,US Government,Student Loan,"$50,001 - $100,000",2012,7.9,10 years
+"Department of the Treasury/Mkrtchian, Edgar",13,US Government,Student Loan,"$15,001 - $50,000",2011,6.8,10 years
+"Department of the Treasury/Mkrtchian, Edgar",14,US Government,Student Loan,"$15,001 - $50,000",2011,6.8,10 years
+"Department of the Treasury/Mkrtchian, Edgar",15,US Government,Student Loan,"$50,001 - $100,000",2011,7.9,10 years
 "Department of the Treasury/Phillips, Craig",1,Merrill Lynch,Margin Loan,"$1,000,001 - $5,000,000",2015,5.75%,NA
 "Department of the Treasury/Rubinstein, Reed",1,Bank of America,Credit Card,"$15,001 - $50,000",2017,4,Revolving
 "Department of the Treasury/Sandoval, Camilo",1,Navient,Student Loan,"$15,001 - $50,000",2008,3,
 "Department of the Treasury/Sandoval, Camilo",2,Mohela,Student Loan,"$15,001 - $50,000",2008,3,
-"Department of the Treasury/Smith, Andrew",1,US Department of Education,Student Loan,"$100,001 - $250,000",2011,6.5%,20
+"Department of the Treasury/Smith, Andrew",1,US Department of Education,Student Loan,"$100,001 - $250,000",2011,6.50%,20
 "Department of the Treasury/Wrennall-Montes, Sarah",1,Saks Mastercard,Credit Card,"$10,001 - $15,000",2013,9%,
 "Department of the Treasury/Wrennall-Montes, Sarah",2,Upromise World Mastercard,Credit Card,"$10,001 - $15,000",2015,10.49%,
 "Environmental Protection Agency/Bangerter, Layne",1,Northwest Farm Credit,Personal Loan,"$100,001 - $250,000",2015,5%,4 year
@@ -62,33 +62,33 @@ file,#,creditor-name,type,amount,year-incurred,rate,term
 "Environmental Protection Agency/Dravis, Samantha",1,Navient,Student Loan,"$10,001 - $15,000",2012,6.8,10 years
 "Environmental Protection Agency/Dravis, Samantha",2,Navient,Student Loan,"$10,001 - $15,000",2012,6.8,10 years
 "Environmental Protection Agency/Dravis, Samantha",3,Navient,Student Loan,"$15,001 - $50,000",2012,7.9,10 years
-"Environmental Protection Agency/Greaves, Holly",1,Prosperity Home Loan,Mortgage (investment/ren tal property),"$500,001 - $1,000,000",2015,3.750,30 year
-"Environmental Protection Agency/Greaves, Holly",2,Caliber Home Loans,Mortgage (investment/ren tal property),"$500,001 - $1,000,000",2016,4.0,30 years
+"Environmental Protection Agency/Greaves, Holly",1,Prosperity Home Loan,Mortgage (investment/ren tal property),"$500,001 - $1,000,000",2015,3.75,30 year
+"Environmental Protection Agency/Greaves, Holly",2,Caliber Home Loans,Mortgage (investment/ren tal property),"$500,001 - $1,000,000",2016,4,30 years
 "Environmental Protection Agency/Gunasekara, Amanda",1,Chase Bank,Credit Card,"$10,001 - $15,000",2016,17,revolving
 "Environmental Protection Agency/Gunasekara, Amanda",2,Department of Education,Student Loan,"$100,001 - $250,000",2010,6.25,20 years
 "Environmental Protection Agency/Munoz, Charles",1,Great Lakes,Student Loan,"$15,001 - $50,000",2006,,30 years
 "Environmental Protection Agency/Schwab, Justin",1,Fedloan Servicing,Student Loan,"$10,001 - $15,000",2012,6.55%,10 years
-"Environmental Protection Agency/Schwab, Justin",2,Fedloan Servicing,Student Loan,"$10,001 - $15,000",2009,6.8%,10 years
-"Environmental Protection Agency/Schwab, Justin",3,Fedloan Servicing,Student Loan,"$10,001 - $15,000",2008,6.8%,10 years
+"Environmental Protection Agency/Schwab, Justin",2,Fedloan Servicing,Student Loan,"$10,001 - $15,000",2009,6.80%,10 years
+"Environmental Protection Agency/Schwab, Justin",3,Fedloan Servicing,Student Loan,"$10,001 - $15,000",2008,6.80%,10 years
 "Environmental Protection Agency/Schwab, Justin",4,Discover Student Loans,Student Loan,"$15,001 - $50,000",2009,8.75%,20 years
 "Environmental Protection Agency/Schwab, Justin",5,American Education Services,Student Loan,"$15,001 - $50,000",2008,2%,25 years
-"Environmental Protection Agency/Schwab, Justin",6,American Education Services,Student Loan,"$15,001 - $50,000",2007,2.624%,20 years
-"Environmental Protection Agency/Schwab, Justin",7,Navient,Student Loan,"$15,001 - $50,000",2012,6.625%,20 years
+"Environmental Protection Agency/Schwab, Justin",6,American Education Services,Student Loan,"$15,001 - $50,000",2007,2.62%,20 years
+"Environmental Protection Agency/Schwab, Justin",7,Navient,Student Loan,"$15,001 - $50,000",2012,6.63%,20 years
 "Export-Import Bank of the United States/Law, Jesse",1,Nelnet,Student Loan,"$15,001 - $50,000",2015,Prime + 2,120
 "Securities and Exchange Commission/Carofine, Christopher",1,American Education Services,Student Loan,"$10,001 - $15,000",2006,4.38,141 Months
 "Senate-confirmed/Acosta, Rene Alexander",1,Third Federal Savings and Loan of Cleveland,Mortgage on Personal Residence,"$500,001 - $1,000,000",2016,2.74,30 years
 "Senate-confirmed/Acosta, Rene Alexander",2,Third Federal Savings and Loan of Cleveland,Home Equity Line of Credit,"$15,001 - $50,000",2016,4.49,Revolving
 "Senate-confirmed/Acosta, Rene Alexander",3,US Bank,Mortgage on Personal Residence,"$500,001 - $1,000,000",2011,3.91,30
 "Senate-confirmed/Acosta, Rene Alexander",4,SunTrust,Home Equity Line of Credit,"$15,001 - $50,000",2013,4.15,Revolving
-"Senate-confirmed/Bernhardt, David L",1,Branch Banking & Trust Company,Mortgage on Personal Residence,"$500,001 - $1,000,000",2016,3.5%,30 years
-"Senate-confirmed/Bernhardt, David L",2,Branch Banking & Trust Company,Mortgage on Personal Residence,"$500,001 - $1,000,000",2012,4.5%,29 years
-"Senate-confirmed/Brouillette, Danny R",1,U.S. Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2013,3.8%,30 years
+"Senate-confirmed/Bernhardt, David L",1,Branch Banking & Trust Company,Mortgage on Personal Residence,"$500,001 - $1,000,000",2016,3.50%,30 years
+"Senate-confirmed/Bernhardt, David L",2,Branch Banking & Trust Company,Mortgage on Personal Residence,"$500,001 - $1,000,000",2012,4.50%,29 years
+"Senate-confirmed/Brouillette, Danny R",1,U.S. Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2013,3.80%,30 years
 "Senate-confirmed/Carson, Benjamin",1,S&T Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2013,3.125,30
-"Senate-confirmed/Carson, Benjamin",2,Flagstar Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2011,4.0,10
+"Senate-confirmed/Carson, Benjamin",2,Flagstar Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2011,4,10
 "Senate-confirmed/DeVos, Elisabeth P",1,"PNC Financial Services Group, Inc.",Personal Loan,"Over $1,000,000",2015,3.77%,5 years
 "Senate-confirmed/DeVos, Elisabeth P",2,SG Fund II LLC,Unfunded Capital Commitments,"$1,000,001 - $5,000,000",2015,0%,On Demand
 "Senate-confirmed/DeVos, Elisabeth P",3,Lakeshore Capital Management LP,Exercised Line of Credit,"Over $1,000,000",2016,0.74%,3 years
-"Senate-confirmed/DeVos, Elisabeth P",4,"PNC Financial Services Group, Inc.",Credit Card,"$15,001 - $50,000",2016,7.4%,Revolving line
+"Senate-confirmed/DeVos, Elisabeth P",4,"PNC Financial Services Group, Inc.",Credit Card,"$15,001 - $50,000",2016,7.40%,Revolving line
 "Senate-confirmed/Green, Mark Andrew",1,Wells Fargo Home Mortgage,Mortgage on Personal Residence,"$250,001 - $500,000",2013,3.5,30
 "Senate-confirmed/Hargan, Eric D",1,Citibank,Personal Loan,"$10,001 - $15,000",2010,3.27%,8 years
 "Senate-confirmed/Hargan, Eric D",2,Bank of America,Credit Card,"$15,001 - $50,000",2014,19.49%,Revolving
@@ -96,7 +96,7 @@ file,#,creditor-name,type,amount,year-incurred,rate,term
 "Senate-confirmed/Hargan, Eric D",4,Capaha Bank,Mortgage (investment/ren tal property),"$15,001 - $50,000",2014,4.75%,5 years
 "Senate-confirmed/Hargan, Eric D",5,Chase Bank,Credit Card,"$10,001 - $15,000",2014,15.74%,Revolving
 "Senate-confirmed/Hargan, Eric D",6,Fifth Third Bank,Mortgage on Personal Residence,"$500,001 - $1,000,000",2013,3.25%,30 years
-"Senate-confirmed/Hargan, Eric D",7,Fifth Third Bank,Home Equity Loan on Personal Residence,"$50,001 - $100,000",2013,5.24%,8/25/2043
+"Senate-confirmed/Hargan, Eric D",7,Fifth Third Bank,Home Equity Loan on Personal Residence,"$50,001 - $100,000",2013,5.24%,8/25/43
 "Senate-confirmed/Hassett, Kevin A",1,US Bank Home Mortgage,Mortgage on Personal Residence,"$50,001 - $100,000",2011,3.25,15 Year Fixed Rate
 "Senate-confirmed/Kelly, John F",1,Bank of America,Mortgage (investment/ren tal property),"$15,001 - $50,000",2009,4.375,15 Years
 "Senate-confirmed/Kelly, John F",2,Bank of America,Mortgage on Personal Residence,"$100,001 - $250,000",2011,4.125,30 Years
@@ -113,20 +113,20 @@ file,#,creditor-name,type,amount,year-incurred,rate,term
 "Senate-confirmed/Patenaude, Pamela H",1,Wells Fargo,Mortgage on Personal Residence,"$500,001 - $1,000,000",2012,3.52,30
 "Senate-confirmed/Patenaude, Pamela H",2,Chase,Mortgage on Personal Residence,"$250,001 - $500,000",2015,3.875,30
 "Senate-confirmed/Patenaude, Pamela H",3,Suntrust,Exercised Line of Credit,"$100,001 - $250,000",2006,Variable,Revolving
-"Senate-confirmed/Perdue, George E",1,Citizens Bank of the South,Personal Loan,"$15,001 - $50,000",2016,2.250%,12/2017
-"Senate-confirmed/Perdue, George E",2,CB&T,Loan Guarantor 50%,"$500,001 - $1,000,000",2013,3.25%,12/2021
-"Senate-confirmed/Perdue, George E",3,CB&T,Loan Guarantor 50%,"$500,001 - $1,000,000",2013,3.25%,12/2021
+"Senate-confirmed/Perdue, George E",1,Citizens Bank of the South,Personal Loan,"$15,001 - $50,000",2016,2.25%,Dec-17
+"Senate-confirmed/Perdue, George E",2,CB&T,Loan Guarantor 50%,"$500,001 - $1,000,000",2013,3.25%,Dec-21
+"Senate-confirmed/Perdue, George E",3,CB&T,Loan Guarantor 50%,"$500,001 - $1,000,000",2013,3.25%,Dec-21
 "Senate-confirmed/Perdue, George E",4,Morris Bank,Loan Guarantor,"$250,001 - $500,000",2016,4.45%,192 Months
 "Senate-confirmed/Perry, James Richard",1,USAA,Personal Loan,"$50,001 - $100,000",2015,2.65,5
 "Senate-confirmed/Perry, James Richard",2,Benchmark Mortgage,Mortgage (investment/ren tal property),"$100,001 - $250,000",2013,4.625,30
 "Senate-confirmed/Perry, James Richard",3,Vista Bank,Mortgage on Personal Residence,"Over $1,000,000",2015,3.75,30
 "Senate-confirmed/Perry, James Richard",4,"Grey Rock Energy Fund, LP II",Capital Commitment,"$100,001 - $250,000",2016,n/a,over next 3 years
 "Senate-confirmed/Perry, James Richard",5,ED Financial Services,Student Loan,"$50,001 - $100,000",2002,3.875,20 years
-"Senate-confirmed/Pompeo, Michael R",1,Capitol Federal,Mortgage on Personal Residence,"$250,001 - $500,000",2009,3.5%,30 years
+"Senate-confirmed/Pompeo, Michael R",1,Capitol Federal,Mortgage on Personal Residence,"$250,001 - $500,000",2009,3.50%,30 years
 "Senate-confirmed/Pruitt, Edward Scott",1,Bank of Oklahoma,Mortgage on Personal Residence,"$500,001 - $1,000,000",2012,3.885,10 years
-"Senate-confirmed/Puzder, Andrew F",1,UBS Financial Services,Mortgage on Personal Residence,"$1,000,001 - $5,000,000",2013,2.134%,5/1 ARM IO
+"Senate-confirmed/Puzder, Andrew F",1,UBS Financial Services,Mortgage on Personal Residence,"$1,000,001 - $5,000,000",2013,2.13%,5/1 ARM IO
 "Senate-confirmed/Puzder, Andrew F",2,UBS Financial Services,Mortgage on Personal Residence,"$500,001 - $1,000,000",2015,2.63%,5/1 ARM IO
-"Senate-confirmed/Puzder, Andrew F",3,UBS Financial Services,Exercised Line of Credit,"$1,000,001 - $5,000,000",2012,2.011%,Revolving
+"Senate-confirmed/Puzder, Andrew F",3,UBS Financial Services,Exercised Line of Credit,"$1,000,001 - $5,000,000",2012,2.01%,Revolving
 "Senate-confirmed/Puzder, Andrew F",4,American Express,Credit Card,"$50,001 - $100,000",2016,18.49%,Revolving
 "Senate-confirmed/Puzder, Andrew F",5,Apollo European Credit Fund LP,Capital Call,"$100,001 - $250,000",2016,N/A,N/A
 "Senate-confirmed/Puzder, Andrew F",6,Apollo Co-Investors VIII (B) LP,Capital Call,"$250,001 - $500,000",2016,N/A,N/A
@@ -134,7 +134,7 @@ file,#,creditor-name,type,amount,year-incurred,rate,term
 "Senate-confirmed/Puzder, Andrew F",8,Solamere Capital Fund II LP,Capital Call,"$500,001 - $1,000,000",2016,N/A,N/A
 "Senate-confirmed/Puzder, Andrew F",9,Solamere Portfolio Company Investments II LLC,Capital Call,"$15,001 - $50,000",2016,N/A,N//A
 "Senate-confirmed/Puzder, Andrew F",10,Altair Healthcare Real Estate Fund LLC,Capital Call,"$100,001 - $250,000",2016,N/A,N/A
-"Senate-confirmed/Rosen, Jeffrey A",1,Citibank,Mortgage on Personal Residence,"$500,001 - $1,000,000",2013,3.375%,30 years
+"Senate-confirmed/Rosen, Jeffrey A",1,Citibank,Mortgage on Personal Residence,"$500,001 - $1,000,000",2013,3.38%,30 years
 "Senate-confirmed/Rosen, Jeffrey A",2,Citibank,Mortgage on Personal Residence,"$50,001 - $100,000",2013,3.5% fixed,3/1 yr ARM
 Senate-confirmed/Ross Wilbur L,1,JP Morgan,Guarantee of Loan to Social Club,"$500,001 - $1,000,000",2016,N/A,2-Year Fixed Term
 Senate-confirmed/Ross Wilbur L,2,Formation8 Partners Entrepreneurs Fund II,Capital Commitment,"$15,001 - $50,000",2014,N/A,Life of fund
@@ -153,31 +153,31 @@ Senate-confirmed/Ross Wilbur L,13,IMRF II Associates LLC,Capital Commitment,"$25
 "Senate-confirmed/Sessions, Jefferson B",2,Capital One,Mortgage on Personal Residence,"$100,001 - $250,000",2015,3.25%,30 years
 "Senate-confirmed/Sullivan, John J",1,Blackstone Capital Holding Trust,Capital Call,"$250,001 - $500,000",2014,,on demand
 "Senate-confirmed/Sullivan, John J",2,ACP Power and Energy VI Real Asset Trust,Capital Call,"$50,001 - $100,000",2015,,on demand
-"Senate-confirmed/Wilson, Heather A",1,WELLS FARGO 2ND MORTGAGE/EQUITY LINE,Mortgage on Personal Residence,"$100,001 - $250,000",2013,3.5%,20 YEARS
+"Senate-confirmed/Wilson, Heather A",1,WELLS FARGO 2ND MORTGAGE/EQUITY LINE,Mortgage on Personal Residence,"$100,001 - $250,000",2013,3.50%,20 YEARS
 "Senate-confirmed/Wilson, Heather A",2,CITIMORTGAGE PRIMARY MORTGAGE,Mortgage on Personal Residence,"$100,001 - $250,000",2012,4.25%,30 YEARS
-"Senate-confirmed/Wilson, Heather A",3,PNC BANK -- SKYWATCHER,Mortgage (investment/ren tal property),"$50,001 - $100,000",2016,4.125%,19 YEARS
-"Senate-confirmed/Wilson, Heather A",4,PNC BANK -- PLAYER LOOP,Mortgage (investment/ren tal property),"$50,001 - $100,000",2003,6.625%,30 YEARS
-"Senate-confirmed/Wilson, Heather A",5,PNC BANK -- HAYES,Mortgage (investment/ren tal property),"$50,001 - $100,000",2003,6.625%,30 YEARS
-"Senate-confirmed/Wilson, Heather A",6,PNC BANK -- MESA MARIPOSA,Mortgage (investment/ren tal property),"$50,001 - $100,000",2004,6.875%,30 YEARS
-"Senate-confirmed/Wilson, Heather A",7,CITIMORTGAGE -- VISTA GRANDE,Mortgage (investment/ren tal property),"$50,001 - $100,000",2013,4.0%,24 Years
+"Senate-confirmed/Wilson, Heather A",3,PNC BANK -- SKYWATCHER,Mortgage (investment/ren tal property),"$50,001 - $100,000",2016,4.13%,19 YEARS
+"Senate-confirmed/Wilson, Heather A",4,PNC BANK -- PLAYER LOOP,Mortgage (investment/ren tal property),"$50,001 - $100,000",2003,6.63%,30 YEARS
+"Senate-confirmed/Wilson, Heather A",5,PNC BANK -- HAYES,Mortgage (investment/ren tal property),"$50,001 - $100,000",2003,6.63%,30 YEARS
+"Senate-confirmed/Wilson, Heather A",6,PNC BANK -- MESA MARIPOSA,Mortgage (investment/ren tal property),"$50,001 - $100,000",2004,6.88%,30 YEARS
+"Senate-confirmed/Wilson, Heather A",7,CITIMORTGAGE -- VISTA GRANDE,Mortgage (investment/ren tal property),"$50,001 - $100,000",2013,4.00%,24 Years
 "Senate-confirmed/Wilson, Heather A",8,CHASE -- BLOSSOMWOOD,Mortgage (investment/ren tal property),"$50,001 - $100,000",2006,6.375,30 YEARS
 "Senate-confirmed/Zinke, Ryan",1,Wells Fargo,Mortgage (investment/ren tal property),"$100,001 - $250,000",2004,3.5,30 year
 "Senate-confirmed/Zinke, Ryan",2,Wells Fargo,Mortgage on Personal Residence,"$100,001 - $250,000",2004,3.5,30 year
 "Senate-confirmed/Zinke, Ryan",3,USAA,Personal Loan,"$15,001 - $50,000",2013,3.5,7 year
 "U.S. Trade and Development Agency/Barrett, Peter",1,American Express,Credit Card,"$10,001 - $15,000",2015,17.74% and 29.74%,open-ended
-"U.S. Trade and Development Agency/Barrett, Peter",2,NY State Higher Education Services,Student Loan,"$15,001 - $50,000",2004,3.625%,8/2036
-"U.S. Trade and Development Agency/Barrett, Peter",3,NY State Higer Education Services,Student Loan,"$15,001 - $50,000",2004,3.625%,8/2036
+"U.S. Trade and Development Agency/Barrett, Peter",2,NY State Higher Education Services,Student Loan,"$15,001 - $50,000",2004,3.63%,Aug-36
+"U.S. Trade and Development Agency/Barrett, Peter",3,NY State Higer Education Services,Student Loan,"$15,001 - $50,000",2004,3.63%,Aug-36
 "U.S. Trade and Development Agency/Leppert, Ryan",1,Sallie Mae,Student Loan,"$50,001 - $100,000",2015,10,120 months
 "White House/Amin, Stacy",1,U.S. Dept of Education,Student Loan,"$50,001 - $100,000",2004,3.375,30 years
 "White House/Augustine, Rene I",1,American Express,Credit Card,"$15,001 - $50,000",2017,,
 "White House/Augustine, Rene I",2,2011 IRREV TR BRIGHTWOOD CAPITAL III REMAINING CAPITAL TO BE CALLED,CAPITAL CALL STRUCTURE ALTERNATIVE INVESTMENT,"$100,001 - $250,000",2014,NA,ON DEMAND
 "White House/Augustine, Rene I",3,NFD 2009 TR CARLYLE GMS FINANCE REMAINING CAPITAL TO BE CALLED,CAPITAL CALL STRUCTURE ALTERNATIVE INVESTMENT,"$100,001 - $250,000",2014,NA,ON DEMAND
-"White House/Bannon, Steve",1,HOME LOAN #1,Mortgage (investment/ren tal property),"$250,001 - $500,000",2002,3.125%,30 YEAR
-"White House/Bannon, Steve",2,HOME LOAN #2,Mortgage (investment/ren tal property),"$250,001 - $500,000",2006,3.625%,Matures January 2037
-"White House/Bannon, Steve",3,HOME LOAN #3,Mortgage (investment/ren tal property),"$500,001 - $1,000,000",2004,3.625%,30 YEAR
-"White House/Bannon, Steve",4,HOME LOAN #4,Mortgage (investment/ren tal property),"$100,001 - $250,000",2015,4.125%,30 YEAR
-"White House/Bannon, Steve",5,"CAMBRIDGE ANALYTICA, LLC",SECURED RECOURSE PROMISSORY NOTE,"$50,001 - $100,000",2016,3.5%,5 YEARS
-"White House/Blase, Brian C",1,Nationstar,Mortgage (investment/ren tal property),"$100,001 - $250,000",2005,3.5%,5/1 ARM Mortgage from 2005
+"White House/Bannon, Steve",1,HOME LOAN #1,Mortgage (investment/ren tal property),"$250,001 - $500,000",2002,3.13%,30 YEAR
+"White House/Bannon, Steve",2,HOME LOAN #2,Mortgage (investment/ren tal property),"$250,001 - $500,000",2006,3.63%,Matures January 2037
+"White House/Bannon, Steve",3,HOME LOAN #3,Mortgage (investment/ren tal property),"$500,001 - $1,000,000",2004,3.63%,30 YEAR
+"White House/Bannon, Steve",4,HOME LOAN #4,Mortgage (investment/ren tal property),"$100,001 - $250,000",2015,4.13%,30 YEAR
+"White House/Bannon, Steve",5,"CAMBRIDGE ANALYTICA, LLC",SECURED RECOURSE PROMISSORY NOTE,"$50,001 - $100,000",2016,3.50%,5 YEARS
+"White House/Blase, Brian C",1,Nationstar,Mortgage (investment/ren tal property),"$100,001 - $250,000",2005,3.50%,5/1 ARM Mortgage from 2005
 "White House/Bossert, Thomas",1,Access Group Education Services,Student Loan,"$50,001 - $100,000",2003,1.625,20 year
 "White House/Bremberg, Andrew",1,ACS Education Services,Student Loan,"$15,001 - $50,000",2006,1.875,20
 "White House/Clark, Justin",1,Great Lakes,Student Loan,"$100,001 - $250,000",2001,4%,30 years
@@ -193,22 +193,22 @@ Senate-confirmed/Ross Wilbur L,13,IMRF II Associates LLC,Capital Commitment,"$25
 "White House/Cordish, Reed",1,American Express,Credit Card,"$15,001 - $50,000",2017,,
 "White House/DeStefano, John",1,Chase,Mortgage (investment/ren tal property),"$100,001 - $250,000",2010,4.875,30
 "White House/Delrahim, Makan",1,Lafayette Federal Credict Union,Mortgage (investment/ren tal property),"$100,001 - $250,000",2006,2.5,30 YR- ARM
-"White House/Delrahim, Makan",2,Nationstar Mortgage,Mortgage (investment/ren tal property),"$100,001 - $250,000",2005,5.0,30 YR
+"White House/Delrahim, Makan",2,Nationstar Mortgage,Mortgage (investment/ren tal property),"$100,001 - $250,000",2005,5,30 YR
 "White House/Delrahim, Makan",3,Nationstar Mortgage,Mortgage (investment/ren tal property),"$100,001 - $250,000",2010,4.375,30YR
-"White House/Delrahim, Makan",4,Senate Federal Credit Union,HELOC,"$250,001 - $500,000",2013,5.0,10 YR
-"White House/Delrahim, Makan",5,Charles Ruttkay,Mortgage (investment/ren tal property),"$250,001 - $500,000",2007,5.0,30 YR
+"White House/Delrahim, Makan",4,Senate Federal Credit Union,HELOC,"$250,001 - $500,000",2013,5,10 YR
+"White House/Delrahim, Makan",5,Charles Ruttkay,Mortgage (investment/ren tal property),"$250,001 - $500,000",2007,5,30 YR
 White House/Diaz-Rosillo Carlos,1,Bank of America,Mortgage (investment/ren tal property),"$100,001 - $250,000",2009,4.75,30
 White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"$100,001 - $250,000",2009,4.625,30
 "White House/Donaldson, Ann",1,Citibank NA,Student Loan,"$10,001 - $15,000",2008,2.250% (variable),20 years
 "White House/Donaldson, Ann",2,Chase Bank,Student Loan,"$15,001 - $50,000",2009,3.67% (variable),236 Months
-"White House/Donaldson, Ann",3,US Department of Education,Student Loan,"$15,001 - $50,000",2004,4.625%,20 years
+"White House/Donaldson, Ann",3,US Department of Education,Student Loan,"$15,001 - $50,000",2004,4.63%,20 years
 "White House/Donaldson, Ann",4,Citibank NA,Student Loan,"$15,001 - $50,000",2004,2.625% (variable),20 years
-"White House/Eisenberg, John",1,PHH Mortgage Svcs,Mortgage (investment/ren tal property),"$50,001 - $100,000",2003,5.810,15 years
+"White House/Eisenberg, John",1,PHH Mortgage Svcs,Mortgage (investment/ren tal property),"$50,001 - $100,000",2003,5.81,15 years
 "White House/Eisenberg, John",2,JP Morgan Chase Bank N.A.,Student Loan,"$50,001 - $100,000",2010,4.75%,10 years
 "White House/Ellis, Michael",1,FedLoan Servicing,Student Loan,"$10,001 - $15,000",2009,6.55% to 8.25%,117 to 119 months
 "White House/Ellis, Michael",2,Navient,Student Loan,"$10,001 - $15,000",2008,6.55% to 7.90%,120 months
 "White House/Epshteyn, Boris",1,Great Lakes T.H.E. Program USB Trustee,Student Loan,"$50,001 - $100,000",2004,Avg. 3.5%,Graduated
-"White House/Epshteyn, Boris",2,Great Lakes T.H.E. Consul USB as Trustee,Student Loan,"$15,001 - $50,000",2005,2.875%,Level
+"White House/Epshteyn, Boris",2,Great Lakes T.H.E. Consul USB as Trustee,Student Loan,"$15,001 - $50,000",2005,2.88%,Level
 "White House/Ferre, Helen",1,Zwizker & Assoc. PC,Student Loan Co-Signer (Collection Agency),"$10,001 - $15,000",2010,N/A,N/A
 "White House/Flynn, Michael 2-11-17",1,Bank of America,Mortgage (investment/ren tal property),"$250,001 - $500,000",2014,3.88 fixed,15 year
 "White House/Flynn, Michael 2-11-17",2,Amerihome (formerly Equity Loans),Mortgage on Personal Residence,"$500,001 - $1,000,000",2016,3.25 fixed,30 year
@@ -218,14 +218,14 @@ White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"
 "White House/Goldschmidt, Abe E",2,American Express,Credit Card,"$10,001 - $15,000",2012,10%,Revolving
 "White House/Goldschmidt, Abe E",3,Navient,Student Loan,"$100,001 - $250,000",2012,7%,30yrs
 "White House/Greenblatt, Jason",1,Raymond James,Exercised Line of Credit,"$250,001 - $500,000",2016,LIBOR + 3%,No term
-"White House/Gribbin, David",1,Cardinal Bank,Exercised Line of Credit,"$10,001 - $15,000",2015,1.9%,Rev.
-"White House/Hagin, Joseph",1,Bank of America Vehicle Loan,Personal Loan,"$50,001 - $100,000",2016,2.5%,5 years
+"White House/Gribbin, David",1,Cardinal Bank,Exercised Line of Credit,"$10,001 - $15,000",2015,1.90%,Rev.
+"White House/Hagin, Joseph",1,Bank of America Vehicle Loan,Personal Loan,"$50,001 - $100,000",2016,2.50%,5 years
 "White House/Herndon, Charles C",1,American Express,Credit Card,"$15,001 - $50,000",2013,11.9,Revolving
 "White House/Herndon, Charles C",2,Citibank,Credit Card,"$10,001 - $15,000",2013,6.9,Revolving
 "White House/Herndon, Charles C",3,Chase,Credit Card,"$10,001 - $15,000",2013,6.9,Revolving
 "White House/Hiler, Jonathan",1,Common Bond,Student Loan,"$50,001 - $100,000",2015,4.99,10
 "White House/Juster, Kenneth",1,UBS Line of Credit,Exercised Line of Credit,"$1,000,001 - $5,000,000",2014,1.513,
-"White House/Karem, Michael J",1,FedLoan- Department of Education,Student Loan,"$10,001 - $15,000",2006,8.00,
+"White House/Karem, Michael J",1,FedLoan- Department of Education,Student Loan,"$10,001 - $15,000",2006,8,
 "White House/Kellogg, Joseph K",1,Pen Fed Credit Union,Exercised Line of Credit,"$100,001 - $250,000",2003,3.25,on demand
 "White House/Kellogg, Joseph K",2,Pen Fed Credit Union,Mortgage on Personal Residence,"$500,001 - $1,000,000",2003,3.25,30 year
 "White House/Koenig, Andrew D",1,Key Bank,Student Loan,"$15,001 - $50,000",2005,5%,20 Years
@@ -233,21 +233,21 @@ White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"
 "White House/Kushner, Jared",1,Valley National Bank,Unsecured line of credit,"$5,000,001 - $25,000,000",2015,PRIME+0.75%,revolving
 "White House/Kushner, Jared",2,Deutsche Bank,Unsecured line of credit,"$5,000,001 - $25,000,000",2015,LIBOR+2.5%,revolving
 "White House/Kushner, Jared",3,Bank of America,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,LIBOR+2.5%,revolving
-"White House/Kushner, Jared",4,IDB Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,4.5%,revolving
+"White House/Kushner, Jared",4,IDB Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,4.50%,revolving
 "White House/Kushner, Jared",5,New York Community Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME (3.25% F),revolving
 "White House/Kushner, Jared",6,Citi Group,Unsecured line of credit,"$1,000,001 - $5,000,000",2015,LIBOR+2.9%,revolving
 "White House/Kushner, Jared",7,Signature Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME+0.5% (4% F),revolving
 "White House/Kushner, Jared",8,Investors Savings Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2015,PRIME (3.25% F),revolving
 "White House/Kushner, Jared",9,Millington Bank,Unsecured line of credit,"$1,000,001 - $5,000,000",2016,PRIME (3.5% F),revolving
 "White House/Kushner, Jared",10,Signature Bank,Secured line of credit,"$1,000,001 - $5,000,000",2016,PRIME+0.5% (4% F),revolving
-"White House/Kushner, Jared",11,Bank of America,Note payable,"$1,000,001 - $5,000,000",2015,LIBOR+2.75%,6/15/2018
+"White House/Kushner, Jared",11,Bank of America,Note payable,"$1,000,001 - $5,000,000",2015,LIBOR+2.75%,6/15/18
 "White House/Kushner, Jared",12,Visa,Credit Card,"$100,001 - $250,000",2008,13.74%,revolving
 "White House/Kushner, Jared",13,Visa,Credit Card,"$15,001 - $50,000",2008,13.74%,revolving
 "White House/Liddell, Chris",1,Chase,Credit Card,"$15,001 - $50,000",2016,13.49%,Revolving
 "White House/Liddell, Chris",2,American Express #1,Credit Card,"$15,001 - $50,000",2016,15.49%,Revolving
 "White House/Liddell, Chris",3,American Express #2,Credit Card,"$50,001 - $100,000",2016,18.49%,Revolving
 "White House/Liddell, Chris",4,American Express,Credit Card,"$15,001 - $50,000",2016,Variable,Revolving
-"White House/Lotter, Marc E",1,JPMorganChase,Credit Card,"$10,001 - $15,000",2011,12.40,revolving
+"White House/Lotter, Marc E",1,JPMorganChase,Credit Card,"$10,001 - $15,000",2011,12.4,revolving
 "White House/Lotter, Marc E",2,JPMorganChase,Credit Card,"$10,001 - $15,000",2011,17.49,revolving
 "White House/Lotter, Marc E",3,Great Lakes Borrower Services,Student Loan,"$15,001 - $50,000",2013,6.4% - 7.2%,10 years
 "White House/Lotter, Marc E",4,Great Lakes Borrower Services,Student Loan,"$15,001 - $50,000",2013,6.4% - 7.2%,10 Years post graduation
@@ -259,12 +259,12 @@ White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"
 "White House/McGinley, Bill",1,Navy Federal Credit Union,Personal Loan,"$10,001 - $15,000",2014,15.25,60 months
 "White House/McGinley, Bill",2,United States Automobile Association,Personal Loan,"$10,001 - $15,000",2013,10.49,72 months
 "White House/McGinley, Bill",3,United States Automobile Association,Personal Loan,"$10,001 - $15,000",2014,10.75,60 months
-"White House/Meeks, Daris",1,US Senate Federal Credit Union,Credit Card,"$15,001 - $50,000",2016,10.0%,revolving
-"White House/Meeks, Daris",2,American Education Services,Student Loan,"$15,001 - $50,000",2016,4.5%,347 months
+"White House/Meeks, Daris",1,US Senate Federal Credit Union,Credit Card,"$15,001 - $50,000",2016,10.00%,revolving
+"White House/Meeks, Daris",2,American Education Services,Student Loan,"$15,001 - $50,000",2016,4.50%,347 months
 "White House/Meyer, Joyce Y",1,"Eagle Bancorp, Inc.",Business line of credit,"$15,001 - $50,000",2016,4.75%,annual renewal
-"White House/Meyer, Joyce Y",2,Former business partner (Michael Rubin),Business partner buyout loan,"$100,001 - $250,000",2015,3.832%,64 months
-"White House/Morgan, Matthew",1,United States Department of Education,Student Loan,"$50,001 - $100,000",2007,5.125%,2039
-"White House/Morgan, Matthew",2,United States Department of Education,Student Loan,"$15,001 - $50,000",2007,5.125%,2039
+"White House/Meyer, Joyce Y",2,Former business partner (Michael Rubin),Business partner buyout loan,"$100,001 - $250,000",2015,3.83%,64 months
+"White House/Morgan, Matthew",1,United States Department of Education,Student Loan,"$50,001 - $100,000",2007,5.13%,2039
+"White House/Morgan, Matthew",2,United States Department of Education,Student Loan,"$15,001 - $50,000",2007,5.13%,2039
 "White House/Munisteri, Stephen P",1,Bank of America,Credit Card,"$15,001 - $50,000",2016,18.74,revolving
 "White House/Munisteri, Stephen P",2,American Express,Credit Card,"$15,001 - $50,000",2016,15.74,revolving
 "White House/Munisteri, Stephen P",3,Citibank,Credit Card,"$15,001 - $50,000",2016,15.74%,revolving
@@ -278,7 +278,7 @@ White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"
 "White House/O'Hara, Joan",4,Fed Loan Direct Unsub Consolidation Loan,Student Loan,"$50,001 - $100,000",2011,8.3,Monthly payments until fully repaid
 "White House/Olmem, Andrew",1,Navent,Student Loan,"$10,001 - $15,000",2001,3.875,30
 "White House/Paoletta, Mark",1,Citibank,capital account loan/ DLA Piper partnership,"$100,001 - $250,000",2012,1 month Libor plus 1.75%,5 years interest only
-"White House/Pitcock, Joshua",1,CapitalOne Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2012,3.375%,15 years
+"White House/Pitcock, Joshua",1,CapitalOne Bank,Mortgage on Personal Residence,"$250,001 - $500,000",2012,3.38%,15 years
 "White House/Pitcock, Joshua",2,Wells Fargo Bank,Exercised Line of Credit,"$250,001 - $500,000",2016,variable,30 years
 "White House/Powell, Dina",1,Bridge St. 2016 L.P.,Capital Call,"$100,001 - $250,000",2016,N/A,On Demand
 "White House/Powell, Dina",2,"Broad Street Senior Credit Partners Employee Fund, L.P.",Capital Call,"$50,001 - $100,000",2015,N/A,On Demand
@@ -290,7 +290,7 @@ White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"
 "White House/Sifakis, George A",1,Nelnet,Student Loan,"$15,001 - $50,000",2003,4%,20
 "White House/Sifakis, George A",2,Jack Fisher Jr. Trust,Mortgage (investment/ren tal property),"$250,001 - $500,000",2015,7%,30 year
 "White House/Simms, Cindy",1,American Express,Credit Card,"$15,001 - $50,000",2016,10%,None
-"White House/Sims, Cliff",1,Wells Fargo,Mortgage (investment/ren tal property),"$100,001 - $250,000",2012,3.5%,30 Years
+"White House/Sims, Cliff",1,Wells Fargo,Mortgage (investment/ren tal property),"$100,001 - $250,000",2012,3.50%,30 Years
 "White House/Spicer, Sean",1,Chase Bank,Mortgage (investment/ren tal property),"$50,001 - $100,000",2017,4.75,30
 "White House/Spicer, Sean",2,Wells Fargo Bank,Mortgage (investment/ren tal property),"$100,001 - $250,000",2017,4.65,30
 "White House/Spicer, Sean",3,Wells Fargo Bank,Mortgage (investment/ren tal property),"$100,001 - $250,000",2017,4.75,30
@@ -299,6 +299,6 @@ White House/Diaz-Rosillo Carlos,2,HUECU,Mortgage (investment/ren tal property),"
 "White House/Spicer, Sean",6,USAA,Credit Card,"$10,001 - $15,000",2000,9%,Revolving
 "White House/Spicer, Sean",7,U.S. Senate Federal Credit Union,Personal Loan,"$15,001 - $50,000",2016,10.75%,5
 "White House/Teller, Paul",1,PNC Bank,Exercised Line of Credit,"$50,001 - $100,000",2016,2.65,Indefinite
-"White House/Westerhout, Maedeleine",1,Department of Education,Student Loan,"$10,001 - $15,000",2013,6.8%,10 years
-"White House/Westerhout, Maedeleine",2,Department Of Education,Student Loan,"$10,001 - $15,000",2011,3.4%,10 years
-"White House/Westerhout, Maedeleine",3,Department of Education,Student Loan,"$10,001 - $15,000",2010,4.5%,10 years
+"White House/Westerhout, Maedeleine",1,Department of Education,Student Loan,"$10,001 - $15,000",2013,6.80%,10 years
+"White House/Westerhout, Maedeleine",2,Department Of Education,Student Loan,"$10,001 - $15,000",2011,3.40%,10 years
+"White House/Westerhout, Maedeleine",3,Department of Education,Student Loan,"$10,001 - $15,000",2010,4.50%,10 years
