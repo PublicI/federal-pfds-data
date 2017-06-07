@@ -126,7 +126,7 @@ file,#,source-name,city-state,brief-description-of-duties
 "Environmental Protection Agency/Schwab, Justin",7,The Scotts Company LLC,"Marysville, OH",Provided legal services
 "Environmental Protection Agency/Schwab, Justin",8,"Mississippi Silicon, LLC","Burnsville, MS",Provided legal services
 "Environmental Protection Agency/Schwab, Justin",9,American Association for Equitable Treatment Inc.,"Las Vegas, NV",Provided legal services
-"Environmental Protection Agency/Schwab, Justin",10,Coalition of DSH Children’s Hospitals ,"Houston, TX",Provided legal services
+"Environmental Protection Agency/Schwab, Justin",10,Coalition of DSH Childrenï¿½s Hospitals ,"Houston, TX",Provided legal services
 "Environmental Protection Agency/Schwab, Justin",11,Lam Group ,"New York, NY",Provided legal services
 "Environmental Protection Agency/Schwab, Justin",12,American Bureau of Shipping ,"Houston, TX",Provided legal services
 "Environmental Protection Agency/Schwab, Justin",13,Pentair Residential Filtration LLC,"Milwaukee, WI",Provided legal services
@@ -738,36 +738,56 @@ White House/Diaz-Rosillo Carlos,3,Belen Jesuit Preparatory School,"Miami, Florid
 "White House/Ferre, Helen",5,WPBT2 Channel 2,"North Miami Beach, Florida",Television Host--Client of HAF Media LLC
 "White House/Ferre, Helen",6,Right to Rise PAC,"Miami, Florida",Advisor
 "White House/Ferre, Helen",7,Jeb Bush Presidential Campaign,"Miami, Florida",Advisor
-"White House/Flynn, Michael 2-11-17",1,Drone Aviation Holding Corp.,"Jacksonville, Florida",Board Member
-"White House/Flynn, Michael 2-11-17",2,Palo Alto Networks Inc.,"Santa Clara, California",Advisory Council Member
-"White House/Flynn, Michael 2-11-17",3,Flynn Intel Group LLC,"Alexandria, Virginia",Member
-"White House/Flynn, Michael 2-11-17",4,Quaestor Federal Consulting LLC,"Springfield, Virginia",Employee and consultant
-"White House/Flynn, Michael 2-11-17",5,Adobe Systems Inc.,"Palo Alto, California",Advisory Board Member
-"White House/Flynn, Michael 2-11-17",6,OSY Technologies SARL,"Luxembourg, Outside U.S.",Advisory Board Member
-"White House/Flynn, Michael 2-11-17",7,Flynn Intel Group Inc.,"Alexandria VA, Virginia",Chairman
-"White House/Flynn, Michael 2-11-17",8,Babel Street Incorporated,"Reston, Virginia",Advisor
-"White House/Flynn, Michael 2-11-17",9,Brainwave Sciences LLC,"Southborough, Massachusetts",Advisor
-"White House/Flynn, Michael 2-11-17",10,Francisco Partners Management LP,"San Francisco, California",Consultant
-"White House/Flynn, Michael 2-11-17",11,McChrystal Group LLC,"Alexandria, Virginia",Consultant
-"White House/Flynn, Michael 2-11-17",12,NJK Holding Corporation,"Minneapolis, Minnesota",Consultant
-"White House/Flynn, Michael 2-11-17",13,"Novetta, Inc.","McLean, Virginia",Consultant
-"White House/Flynn, Michael 2-11-17",14,Pechter Polls LLC,"Princeton, New Jersey",Consultant
-"White House/Flynn, Michael 2-11-17",15,The Ulysses Group LLC,"Charleston, South Carolina",Advisor
-"White House/Flynn, Michael 2-11-17",16,"I3 Integrative Creative Solutions, LLC","Springfield, Virginia",Consultant
-"White House/Flynn, Michael 2-11-17",17,Anadarko Petroleum Co.,"Woodlands, Texas",Advisor
-"White House/Flynn, Michael 2-11-17",18,BlackDuck Software Inc.,"Burlingame, Massachusetts",Consultant
-"White House/Flynn, Michael 2-11-17",19,Center for a New American Security,"Washington, District of Columbia",Consultant
-"White House/Flynn, Michael 2-11-17",20,Halifax Investment Management Inc.,"Washington, District of Columbia",Consultant
-"White House/Flynn, Michael 2-11-17",21,Norton Rose Fulbright LLC,"Houston, Texas",Consultant
-"White House/Flynn, Michael 2-11-17",22,Federal Bureau of Investigation,"Washington, District of Columbia",Consultant
-"White House/Flynn, Michael 2-11-17",23,Museum Armor,"Old Bethpage, New York",Speaking engagement
-"White House/Flynn, Michael 2-11-17",24,Youth of Americas Foundation,"Reston, Virginia",Speaking engagements
-"White House/Flynn, Michael 2-11-17",25,Ibrahim Kurtulus,"New York, New York",Speaking engagement
-"White House/Flynn, Michael 2-11-17",26,Creative Artists Agency,"Los Angeles, California",Speaking engagement
-"White House/Flynn, Michael 2-11-17",27,Writer's Representatives,"New York, New York",Writer's fees
-"White House/Flynn, Michael 2-11-17",28,MacMillan Publishing Company,"New York, New York",Royalties
-"White House/Flynn, Michael 2-11-17",29,Leading Authorities LLC,"Washington, District of Columbia",Speaking fees
-"White House/Flynn, Michael 2-11-17",30,INOVO BV,"Utrecht, Outside U.S.",Consultant
+"White House/Flynn, Michael",1,Drone Aviation Holding Corp.,"Jacksonville, Florida",Board Member
+"White House/Flynn, Michael",2,Palo Alto Networks Inc.,"Santa Clara, California",Advisory Council Member
+"White House/Flynn, Michael",3,Flynn Intel Group LLC,"Alexandria, Virginia",Member
+"White House/Flynn, Michael",4,Quaestor Federal Consulting LLC,"Springfield, Virginia",Employee and consultant
+"White House/Flynn, Michael",5,Adobe Systems Inc.,"Palo Alto, California","Advisory Board Member, speaking engagement"
+"White House/Flynn, Michael",6,OSY Technologies SARL,Luxembourg,Advisory Board Member
+"White House/Flynn, Michael",7,Flynn Intel Group Inc.,"Alexandria, Virginia",Chairman
+"White House/Flynn, Michael",8,Babel Street Incorporated,"Reston, Virginia",Advisor
+"White House/Flynn, Michael",9,Brainwave Sciences LLC,"Southborough, Massachusetts",Advisor
+"White House/Flynn, Michael",10,Francisco Partners Management LP,"San Francisco, California",Consultant
+"White House/Flynn, Michael",11,McChrystal Group LLC,"Alexandria, Virginia",Consultant
+"White House/Flynn, Michael",12,NJK Holding Corporation,"Minneapolis, Minnesota",Consultant
+"White House/Flynn, Michael",13,"Novetta, Inc.","McLean, Virginia",Consultant
+"White House/Flynn, Michael",14,Pechter Polls LLC,"Princeton, New Jersey",Consultant
+"White House/Flynn, Michael",15,The Ulysses Group LLC,"Charleston, South Carolina",Advisor
+"White House/Flynn, Michael",16,"I3 Integrative Creative Solutions, LLC","Springfield, Virginia",Consultant
+"White House/Flynn, Michael",17,Anadarko Petroleum Co.,"Woodlands, Texas",Advisor
+"White House/Flynn, Michael",18,BlackDuck Software Inc.,"Burlingame, Massachusetts",Speaking engagement
+"White House/Flynn, Michael",19,CV Properties,"Boston, Massachusetts",Consultant
+"White House/Flynn, Michael",20,Halifax Investment Management Inc.,"Washington, D.C.",Speaking engagement
+"White House/Flynn, Michael",21,Norton Rose Fulbright LLC,"Houston, Texas",Consultant
+"White House/Flynn, Michael",22,Museum Armor,"Old Bethpage, New York",Speaking engagement
+"White House/Flynn, Michael",23,Youth of Americas Foundation,"Reston, Virginia",Speaking engagement
+"White House/Flynn, Michael",24,Ibrahim Kurtulus,"New York, New York",Speaking engagement
+"White House/Flynn, Michael",25,Creative Artists Agency,"Los Angeles, California",Speaking engagement
+"White House/Flynn, Michael",26,Writer's Representatives,"New York, New York",Writer's fees
+"White House/Flynn, Michael",27,MacMillan Publishing Company,"New York, New York",Royalties
+"White House/Flynn, Michael",28,Leading Authorities LLC,"Washington, D.C.",Speaking fees
+"White House/Flynn, Michael",29,INOVO BV,"Utrecht, Netherlands",Consultant
+"White House/Flynn, Michael",30,Commercial Club of Chicago,"Chicago, Illinois",Speaking engagement
+"White House/Flynn, Michael",31,"Barron's (through Leading Authorities LLC (""LAI""))","New York, New York",Speaking engagement
+"White House/Flynn, Michael",32,National Association of Insurance Commissioners (through LAI),"Kansas City, Missouri",Speaking engagement
+"White House/Flynn, Michael",33,Volga-Dnepr Airlines (through LAI),"Ulyanovsk, Russia","Speaking engagement, event took place in United States"
+"White House/Flynn, Michael",34,Wells Fargo (through LAI),"San Francisco, California",Speaking engagement
+"White House/Flynn, Michael",35,"Wells Fargo Bank, N.A - SFO (through LAI)","San Francisco, California",Speaking engagement
+"White House/Flynn, Michael",36,Morgan Stanley (through Washington Speakers Bureau),"New York, New York",Speaking engagement
+"White House/Flynn, Michael",37,"Kaspersky Government Security Solutions, Inc. (through LAI)","Moscow, Russia","Speaking engagement, event took place in United States"
+"White House/Flynn, Michael",38,International Stability Operations Association (through LAI),"Washington, D.C.",Speaking engagement
+"White House/Flynn, Michael",39,Adobe Inc. (through LAI),"San Jose, California",Speaking engagement
+"White House/Flynn, Michael",40,RT TV (through LAI),"Moscow, Russia",Speaking engagement
+"White House/Flynn, Michael",41,Washington Speakers Bureau,"Washington, D.C.",Speaking Fees
+"White House/Flynn, Michael",42,Premiere Speakers Bureau,"Nashville, Tennessee",Speaking Fees
+"White House/Flynn, Michael",43,Counterterrorism Education Learning Lab (trough LAI),"Denver, Colorado",Speaking engagement
+"White House/Flynn, Michael",44,Lincoln Chamber of Commerce (through LAI),"Lincoln, Nebraska",Speaking engagement
+"White House/Flynn, Michael",45,National Center for Policy Analysis (through LAI),"Dallas, Texas",Speaking engagement
+"White House/Flynn, Michael",46,Professional Services Council (through LAI),"Arlington, Virginia",Speaking engagement
+"White House/Flynn, Michael",47,CoBank,"Denver, Colorado",Speaking engagement
+"White House/Flynn, Michael",48,David Horowitz Freedom Center (through Premiere Speakers),"Sherman Oaks, California",Speaking engagement
+"White House/Flynn, Michael",49,"Randall-Reilly Publishing Company, LLC (through LAI)","Tuscaloosa, Alabama",Speaking engagement
+"White House/Flynn, Michael",50,"Levyx, Inc.","Irvine, California",Consultant
 "White House/Ford, Stephen J",1,"In Pursuit Of, LLC","Arlington, Virginia",Editorial Director
 "White House/Ford, Stephen J",2,Freedom Partners Chamber of Commerce,"Arlington, Virginia",Director of Writing
 "White House/Ford, Stephen J",3,John H. Schnatter,"Anchorage, Kentucky",Writer

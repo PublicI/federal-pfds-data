@@ -5916,13 +5916,12 @@ White House/Diaz-Rosillo Carlos,4,"Residential Real Estate # 3 Cambridge, MA",No
 "White House/Ferre, Helen",1,Florida College Prepaid Account (Cash),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Ferre, Helen",2,U.S. Bank Account #1 (Cash),N/A,"$1,001 - $15,000",,None (or less than $201)
 "White House/Ferre, Helen",3,U.S. Bank Account #2 (Cash),N/A,"$100,001 - $250,000",,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",1,Flynn Intel Group LLC Business Checking Account,No,"$50,001 - $100,000",Interest,"$1,001 - $2,500"
-"White House/Flynn, Michael 2-11-17",2,Personal Checking Account,No,"$50,001 - $100,000",Interest,"$1,001 - $2,500"
-"White House/Flynn, Michael 2-11-17",3,Savings and Investment Account,No,"$250,001 - $500,000",Interest,"$5,001 - $15,000"
-"White House/Flynn, Michael 2-11-17",4,Savings Account 1,No,"None (or less than $1,001)",Interest,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",5,Savings Account 2,No,"$15,001 - $50,000",Interest,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",6,Residential Rental House,No,"$500,001 - $1,000,000",Rent or Royalties,"$5,001 - $15,000"
-"White House/Flynn, Michael 2-11-17",7,Savings Account 3,No,"None (or less than $1,001)",Interest,None (or less than $201)
+"White House/Flynn, Michael",1,Flynn Intel Group LLC Business Checking Account,N,"$50,001 ","$100,000 ",Interest,"$1,001 ","$2,500 "
+"White House/Flynn, Michael",2,Personal Checking Account,N,"$50,001 ","$100,000 ",Interest,"$1,001 ","$2,500 "
+"White House/Flynn, Michael",3,Savings and Investment Account,N,"$250,001 ","$500,000 ",Interest,"$5,001 ","$15,000 "
+"White House/Flynn, Michael",4,Savings Account 1,N,"None (or less than $1,001)",,Interest,None (or less than $201),
+"White House/Flynn, Michael",5,Savings Account 2,N,"$15,001 ","$50,000 ",Interest,None (or less than $201),
+"White House/Flynn, Michael",6,Savings Account 3,N,"None (or less than $1,001)",,Interest,None (or less than $201),
 "White House/Ford, Stephen J",1,U.S. Bank Account #1 (Cash),N/A,"$50,001 - $100,000",,None (or less than $201)
 "White House/Gast, Scott",1,Apple (AAPL),No,"$1,001 - $15,000",,None (or less than $201)
 "White House/Gast, Scott",2,iShares Core S&P 500 ETF (IVV),Yes,"$1,001 - $15,000",,"$201 - $1,000"

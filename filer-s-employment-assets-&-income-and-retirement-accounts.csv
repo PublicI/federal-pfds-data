@@ -2161,21 +2161,33 @@ White House/Diaz-Rosillo Carlos,7.1,TFLIC (Transamerica Financial) Guaranteed Po
 "White House/Ferre, Helen",3,"Fixed Term IRA, U.S. Bank Account # 1 (Cash)",N/A,"$15,001 - $50,000",,None (or less than $201)
 "White House/Ferre, Helen",4,"HAF Media, LLC",N/A,"None (or less than $1,001)",,None (or less than $201)
 "White House/Ferre, Helen",5,"9 Month Risk Free IRA, U.S. Bank Account #1 (Cash)",N/A,"$15,001 - $50,000",,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",1,Drone Aviation Holding Corp.,N/A,,Director Fees,"$24,000"
-"White House/Flynn, Michael 2-11-17",2,Drone Aviation Holding Corp.,N/A,"None (or less than $1,001)",,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",3,"GreenZone Systems Inc., stock options",N/A,"None (or less than $1,001)",,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",4,"HALO Privacy LLC, stock options",N/A,"None (or less than $1,001)",,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",5,HALO Privacy LLC (Privacy / Security),N/A,"None (or less than $1,001)",,None (or less than $201)
-"White House/Flynn, Michael 2-11-17",6,Palo Alto Networks Inc.,N/A,,Consulting Fees,"$40,280"
-"White House/Flynn, Michael 2-11-17",7,Flynn Intel Group LLC (Consulting),N/A,,Salary/Bonus,"$827,055"
-"White House/Flynn, Michael 2-11-17",8,Quaestor Federal Consulting LLC (Federal services contractor),N/A,,Salary,"$90,000"
-"White House/Flynn, Michael 2-11-17",9,Adobe Systems Inc.,N/A,,Salary,"$125,250"
-"White House/Flynn, Michael 2-11-17",10,OSY Technologies SARL,N/A,,Salary,"$40,280"
-"White House/Flynn, Michael 2-11-17",11,Flynn Intel Group Inc.,No,,,"$50,001 - $100,000"
-"White House/Flynn, Michael 2-11-17",12,Flynn Intel 401(k) - MTF,Yes,"$50,001 - $100,000",,
-"White House/Flynn, Michael 2-11-17",13,Flynn Intel Defined Benefit Plan,Yes,"$250,001 - $500,000",,
-"White House/Flynn, Michael 2-11-17",14,IRA - MTF,Yes,"$15,001 - $50,000",,
-"White House/Flynn, Michael 2-11-17",15,2016 S Corp/K-1 - MTF,N/A,,Capital Gains,"$50,001 - $100,000"
+"White House/Flynn, Michael",1,Drone Aviation Holding Corp.,N/A,,,Director Fees,"$24,000 ",
+"White House/Flynn, Michael",2,"Drone Aviation Holding Corp., stock",N/A,"$50,001 ","$100,000 ",,None (or less than $201),
+"White House/Flynn, Michael",3,"GreenZone Systems Inc., stock options (value not readily ascertainable)",N/A,"None (or less than $1,001)",,,None (or less than $201),
+"White House/Flynn, Michael",4,"HALO Privacy LLC, stock options (value not readily ascertainable)",N/A,"None (or less than $1,001)",,,None (or less than $201),
+"White House/Flynn, Michael",5,"HALO Privacy LLC (Privacy / Security), stock (value not readily ascertainable)",N/A,"None (or less than $1,001)",,,None (or less than $201),
+"White House/Flynn, Michael",6,"Palo Alto Networks Inc., stock",N/A,"$15,001 ","$50,000 ",,None (or less than $201),
+"White House/Flynn, Michael",7,Flynn Intel Group LLC (Consulting),N/A,,,Salary/Bonus,"$827,055 ",
+"White House/Flynn, Michael",8,Quaestor Federal Consulting LLC (Federal services contractor),N/A,,,Salary,"$90,000 ",
+"White House/Flynn, Michael",9,Adobe Systems Inc.,N/A,,,Salary/Consulting Fees,"$125,250 ",
+"White House/Flynn, Michael",10,OSY Technologies SARL,N/A,,,Salary,"$40,280 ",
+"White House/Flynn, Michael",11,Flynn Intel Group Inc.,N/A,,,Business Income,"$50,001 ","$100,000 "
+"White House/Flynn, Michael",12,Flynn Intel 401(k) - MTF,Y,"$50,001 ","$100,000 ",,,
+"White House/Flynn, Michael",13,Flynn Intel Defined Benefit Plan,Y,"$250,001 ","$500,000 ",,,
+"White House/Flynn, Michael",14,IRA - MTF,Y,"$15,001 ","$50,000 ",,,
+"White House/Flynn, Michael",15,2016 S Corp/K-1 - MTF,N/A,,,Capital Gains,"$50,001 ","$100,000 "
+"White House/Flynn, Michael",16,"Counterterrorism Education Learning Lab (through Leading Authorities LLC), 2/17/2016",N/A,,,Speaker Fees,"$20,000.00 ",
+"White House/Flynn, Michael",17,"Lincoln Chamber of Commerce (through Leading Authorities LLC), 2/24/2016",N/A,,,Speaker Fees,"$15,000.00 ",
+"White House/Flynn, Michael",18,"National Center for Policy Analysis (through Leading Authorities LLC), 3/31/2016",N/A,,,Speaker Fees,"$10,000.00 ",
+"White House/Flynn, Michael",19,"Professional Services Council (through Leading Authorities LLC), 4/18/2016",N/A,,,Speaker Fees,"$9,800.00 ",
+"White House/Flynn, Michael",20,"CoBank, 10/25/2016",N/A,,,Speaker Fees,"$15,000.00 ",
+"White House/Flynn, Michael",21,"David Horowitz Freedom Center (through Premiere Speakers Bureau), 11/11/2016",N/A,,,Speaker Fees,"$15,000.00 ",
+"White House/Flynn, Michael",22,"Randall-Reilly Publishing Company, LLC (through Leading Authorities LLC), 11/15/2016",N/A,,,Speaker Fees,"$22,500.00 ",
+"White House/Flynn, Michael",23,"Museum Armor, 11/16/2016",N/A,,,Speaker Fees,"$10,000.00 ",
+"White House/Flynn, Michael",24,"Youth of Americas Foundation, 11/12/2016",N/A,,,Speaker Fees,"$20,000 ",
+"White House/Flynn, Michael",25,"Ibrahim Kurtulus, 10/2016",N/A,,,Speaker Fees,"$10,000.00 ",
+"White House/Flynn, Michael",26,"BlackDuck Software Inc., 10/2016",N/A,,,Speaker Fees,"$14,454.20 ",
+"White House/Flynn, Michael",27,"Halifax Investment Management Inc., 4/27/2016",N/A,,,Speaker Fees,"$10,000 ",
 "White House/Ford, Stephen J",1,"In Pursuit Of, LLC (Communications Firm)",N/A,,Salary,"$11,627"
 "White House/Ford, Stephen J",2,Freedom Partners Chamber of Commerce,N/A,,Salary/Bonus,"$189,636"
 "White House/Ford, Stephen J",3,Roth IRA - Wells Fargo,No,,,
